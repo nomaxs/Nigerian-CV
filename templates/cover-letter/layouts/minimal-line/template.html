@@ -1,0 +1,28 @@
+<div class="cl3">
+  <div class="cl3-sender">
+    <strong data-field="personal.fullName"></strong>
+    <div class="cl3-line"></div>
+    <div class="cl3-contact">
+      <span data-field="personal.phone"></span>
+      <span data-field="personal.email"></span>
+      <span data-field="personal.location"></span>
+    </div>
+  </div>
+
+  <div class="cl3-date" data-field="date"></div>
+
+  <div class="cl3-recipient" data-if="recipient.hiringManager">
+    <div data-field="recipient.hiringManager"></div>
+    <div data-field="recipient.company"></div>
+    <div data-field="recipient.companyAddress"></div>
+  </div>
+
+  <p class="cl3-salutation" data-field="salutation">Dear Hiring Manager,</p>
+
+  <div class="cl3-body" data-list="body">
+    <template><p data-field="."></p></template>
+  </div>
+
+  <p class="cl3-closing" data-field="closing">Yours faithfully,</p>
+  <p class="cl3-signature" data-field="personal.fullName"></p>
+</div>
