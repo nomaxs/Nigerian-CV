@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Inter:wght@400;500;600;700;800&display=swap');
+
+.cv-tl{ font-family: 'Inter', sans-serif; color: var(--t-ink, #1D2321); font-size: 13.5px; line-height: 1.55; min-height: 1100px; padding: 46px 46px 40px; background: #fff; }
+.cv-tl-head{ text-align: center; margin-bottom: 30px; }
+.cv-tl-head h1{ font-family: 'Fraunces', serif; font-size: 28px; font-weight: 700; }
+.cv-tl-title{ font-size: 13.5px; font-weight: 700; color: var(--t-accent, #0E6E63); margin-top: 4px; }
+.cv-tl-contact{ list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 5px 14px; font-size: 12px; color: var(--t-muted, #6C7A76); }
+
+.cv-tl-body section{ margin-bottom: 26px; }
+.cv-tl-body h2{
+  font-size: 12.5px; text-transform: uppercase; letter-spacing: .08em; font-weight: 800;
+  color: var(--t-accent, #0E6E63); margin: 0 0 14px;
+}
+
+.cv-tl-line{ position: relative; padding-left: 22px; border-left: 2px solid var(--t-line, #DCE6E3); }
+.cv-tl-item{ position: relative; margin-bottom: 18px; }
+.cv-tl-item:last-child{ margin-bottom: 0; }
+.cv-tl-dot{ position: absolute; left: -27px; top: 4px; width: 10px; height: 10px; border-radius: 50%; background: var(--t-accent, #0E6E63); border: 2px solid #fff; box-shadow: 0 0 0 2px var(--t-accent, #0E6E63); }
+.cv-tl-item-head{ display: flex; justify-content: space-between; gap: 10px; }
+.cv-tl-item-head strong{ font-size: 14px; }
+.cv-tl-item-head span{ font-size: 11.5px; color: var(--t-muted, #6C7A76); font-weight: 600; white-space: nowrap; }
+.cv-tl-company{ color: var(--t-accent, #0E6E63); font-weight: 700; font-size: 12.5px; margin: 2px 0 5px; }
+.cv-tl-content ul{ margin: 0; padding-left: 16px; }
+.cv-tl-content ul li{ margin-bottom: 3px; }
+
+.cv-tl-pills{ list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 7px; }
+.cv-tl-pills li{ background: var(--t-surface, #F1F7F5); border: 1px solid var(--t-line, #DCE6E3); color: var(--t-accent, #0E6E63); padding: 5px 12px; border-radius: 999px; font-size: 11.5px; font-weight: 700; }
+.cv-tl-plain{ list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 14px; }
+.cv-tl-plain li{ font-size: 12.5px; }
+.cv-tl-plain li:not(:last-child)::after{ content:'•'; margin-left: 14px; color: var(--t-line, #ccc); }
+
+.cv-tl-refs{ display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.cv-tl-ref{ font-size: 12.5px; }
