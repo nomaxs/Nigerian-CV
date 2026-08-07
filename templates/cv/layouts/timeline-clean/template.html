@@ -1,0 +1,78 @@
+<div class="cv cv-tl">
+  <header class="cv-tl-head">
+    <h1 data-field="personal.fullName">Full Name</h1>
+    <p class="cv-tl-title" data-field="personal.title"></p>
+    <ul class="cv-tl-contact">
+      <li data-field="personal.phone"></li>
+      <li data-field="personal.email"></li>
+      <li data-field="personal.location"></li>
+      <li data-field="personal.linkedin" data-if="personal.linkedin"></li>
+    </ul>
+  </header>
+
+  <div class="cv-tl-body">
+    <section data-if="personal.summary">
+      <h2>Profile</h2>
+      <p data-field-html="personal.summary"></p>
+    </section>
+
+    <section data-if="experience">
+      <h2>Experience</h2>
+      <div class="cv-tl-line" data-list="experience">
+        <template>
+          <div class="cv-tl-item">
+            <span class="cv-tl-dot"></span>
+            <div class="cv-tl-content">
+              <div class="cv-tl-item-head"><strong data-field="position"></strong><span data-field="dates"></span></div>
+              <div class="cv-tl-company" data-field="company"></div>
+              <ul data-list="responsibilities"><template><li data-field="."></li></template></ul>
+            </div>
+          </div>
+        </template>
+      </div>
+    </section>
+
+    <section data-if="education">
+      <h2>Education</h2>
+      <div class="cv-tl-line" data-list="education">
+        <template>
+          <div class="cv-tl-item">
+            <span class="cv-tl-dot"></span>
+            <div class="cv-tl-content">
+              <div class="cv-tl-item-head"><strong data-field="degree"></strong><span data-field="year"></span></div>
+              <div class="cv-tl-company" data-field="institution"></div>
+              <div data-field="course"></div>
+            </div>
+          </div>
+        </template>
+      </div>
+    </section>
+
+    <section data-if="skills">
+      <h2>Skills</h2>
+      <ul class="cv-tl-pills" data-list="skills"><template><li data-field="."></li></template></ul>
+    </section>
+
+    <section data-if="certifications">
+      <h2>Certifications</h2>
+      <ul class="cv-tl-plain" data-list="certifications"><template><li data-field="."></li></template></ul>
+    </section>
+
+    <section data-if="languages">
+      <h2>Languages</h2>
+      <ul class="cv-tl-plain" data-list="languages"><template><li data-field="."></li></template></ul>
+    </section>
+
+    <section data-if="references">
+      <h2>References</h2>
+      <div class="cv-tl-refs" data-list="references">
+        <template>
+          <div class="cv-tl-ref">
+            <strong data-field="name"></strong> — <span data-field="relation"></span><br>
+            <span data-field="phone"></span> &middot; <span data-field="email"></span>
+          </div>
+        </template>
+      </div>
+    </section>
+  </div>
+</div>
