@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Inter:wght@400;500;600;700;800&display=swap');
+
+.cv-tc{ font-family: 'Inter', sans-serif; color: var(--t-ink, #22252C); font-size: 13.5px; line-height: 1.55; min-height: 1100px; background: #fff; }
+.cv-tc-head{ padding: 42px 44px 22px; border-bottom: 3px solid var(--t-accent, #2C3E66); }
+.cv-tc-head h1{ font-family: 'Fraunces', serif; font-size: 27px; font-weight: 700; color: var(--t-ink, #22252C); }
+.cv-tc-title{ font-size: 13.5px; font-weight: 700; color: var(--t-accent, #2C3E66); text-transform: uppercase; letter-spacing: .04em; margin-top: 4px; }
+.cv-tc-contact{ list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 5px 16px; font-size: 12px; color: var(--t-muted, #6B7280); }
+
+.cv-tc-body{ display: grid; grid-template-columns: 220px 1fr; }
+.cv-tc-left{ background: var(--t-surface, #F3F5F8); padding: 30px 24px; }
+.cv-tc-right{ padding: 30px 34px; }
+.cv-tc-left section, .cv-tc-right section{ margin-bottom: 24px; }
+.cv-tc-left h2, .cv-tc-right h2{
+  font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; font-weight: 800;
+  color: var(--t-accent, #2C3E66); margin: 0 0 12px;
+}
+.cv-tc-item{ margin-bottom: 14px; font-size: 12.5px; }
+.cv-tc-item strong{ display: block; font-size: 13px; }
+.cv-tc-sub{ color: var(--t-muted, #6B7280); }
+.cv-tc-year{ color: var(--t-muted, #6B7280); font-size: 11.5px; margin-top: 2px; }
+.cv-tc-plain{ list-style: none; margin: 0; padding: 0; }
+.cv-tc-plain li{ font-size: 12.5px; margin-bottom: 6px; padding-left: 12px; position: relative; }
+.cv-tc-plain li::before{ content: ''; position: absolute; left: 0; top: 7px; width: 5px; height: 5px; background: var(--t-accent, #2C3E66); border-radius: 50%; }
+
+.cv-tc-exp{ margin-bottom: 16px; }
+.cv-tc-exp-head{ display: flex; justify-content: space-between; gap: 10px; }
+.cv-tc-exp-head strong{ font-size: 14px; }
+.cv-tc-exp-head span{ font-size: 11.5px; color: var(--t-muted, #6B7280); font-weight: 600; white-space: nowrap; }
+.cv-tc-exp ul{ margin: 6px 0 0; padding-left: 16px; }
+.cv-tc-exp ul li{ margin-bottom: 3px; }
+
+.cv-tc-refs{ display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.cv-tc-ref{ font-size: 12.5px; }
