@@ -1,0 +1,76 @@
+<div class="cv cv-cm">
+  <header class="cv-cm-head">
+    <div class="cv-cm-block"></div>
+    <img class="cv-cm-photo" data-field-img="personal.photo" alt="">
+    <div class="cv-cm-headtext">
+      <h1 data-field="personal.fullName">Full Name</h1>
+      <p class="cv-cm-title" data-field="personal.title"></p>
+      <ul class="cv-cm-contact">
+        <li data-field="personal.phone"></li>
+        <li data-field="personal.email"></li>
+        <li data-field="personal.location"></li>
+        <li data-field="personal.linkedin" data-if="personal.linkedin"></li>
+      </ul>
+    </div>
+  </header>
+
+  <div class="cv-cm-grid">
+    <div class="cv-cm-box" data-if="personal.summary">
+      <h2>Profile</h2>
+      <p data-field-html="personal.summary"></p>
+    </div>
+
+    <div class="cv-cm-box" data-if="experience">
+      <h2>Work Experience</h2>
+      <div data-list="experience">
+        <template>
+          <div class="cv-cm-exp">
+            <div class="cv-cm-exp-head"><strong data-field="position"></strong><span data-field="dates"></span></div>
+            <div class="cv-cm-sub" data-field="company"></div>
+            <ul data-list="responsibilities"><template><li data-field="."></li></template></ul>
+          </div>
+        </template>
+      </div>
+    </div>
+
+    <div class="cv-cm-box" data-if="education">
+      <h2>Education</h2>
+      <div data-list="education">
+        <template>
+          <div class="cv-cm-edu">
+            <div class="cv-cm-exp-head"><strong data-field="degree"></strong><span data-field="year"></span></div>
+            <div data-field="course"></div>
+            <div class="cv-cm-sub" data-field="institution"></div>
+          </div>
+        </template>
+      </div>
+    </div>
+
+    <div class="cv-cm-row">
+      <div class="cv-cm-box" data-if="skills">
+        <h2>Skills</h2>
+        <ul class="cv-cm-pills" data-list="skills"><template><li data-field="."></li></template></ul>
+      </div>
+      <div class="cv-cm-box" data-if="certifications">
+        <h2>Certifications</h2>
+        <ul class="cv-cm-plain" data-list="certifications"><template><li data-field="."></li></template></ul>
+      </div>
+      <div class="cv-cm-box" data-if="languages">
+        <h2>Languages</h2>
+        <ul class="cv-cm-plain" data-list="languages"><template><li data-field="."></li></template></ul>
+      </div>
+    </div>
+
+    <div class="cv-cm-box" data-if="references">
+      <h2>References</h2>
+      <div class="cv-cm-refs" data-list="references">
+        <template>
+          <div class="cv-cm-ref">
+            <strong data-field="name"></strong> — <span data-field="relation"></span><br>
+            <span data-field="phone"></span> &middot; <span data-field="email"></span>
+          </div>
+        </template>
+      </div>
+    </div>
+  </div>
+</div>
