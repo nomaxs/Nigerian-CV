@@ -1,0 +1,77 @@
+<div class="cv cv-tc">
+  <header class="cv-tc-head">
+    <h1 data-field="personal.fullName">Full Name</h1>
+    <p class="cv-tc-title" data-field="personal.title"></p>
+    <ul class="cv-tc-contact">
+      <li data-field="personal.phone"></li>
+      <li data-field="personal.email"></li>
+      <li data-field="personal.location"></li>
+      <li data-field="personal.linkedin" data-if="personal.linkedin"></li>
+    </ul>
+  </header>
+
+  <div class="cv-tc-body">
+    <aside class="cv-tc-left">
+      <section data-if="education">
+        <h2>Education</h2>
+        <div data-list="education">
+          <template>
+            <div class="cv-tc-item">
+              <strong data-field="degree"></strong>
+              <div data-field="course"></div>
+              <div class="cv-tc-sub" data-field="institution"></div>
+              <div class="cv-tc-year" data-field="year"></div>
+            </div>
+          </template>
+        </div>
+      </section>
+
+      <section data-if="skills">
+        <h2>Skills</h2>
+        <ul class="cv-tc-plain" data-list="skills"><template><li data-field="."></li></template></ul>
+      </section>
+
+      <section data-if="certifications">
+        <h2>Certifications</h2>
+        <ul class="cv-tc-plain" data-list="certifications"><template><li data-field="."></li></template></ul>
+      </section>
+
+      <section data-if="languages">
+        <h2>Languages</h2>
+        <ul class="cv-tc-plain" data-list="languages"><template><li data-field="."></li></template></ul>
+      </section>
+    </aside>
+
+    <main class="cv-tc-right">
+      <section data-if="personal.summary">
+        <h2>Profile</h2>
+        <p data-field-html="personal.summary"></p>
+      </section>
+
+      <section data-if="experience">
+        <h2>Work Experience</h2>
+        <div data-list="experience">
+          <template>
+            <div class="cv-tc-exp">
+              <div class="cv-tc-exp-head"><strong data-field="position"></strong><span data-field="dates"></span></div>
+              <div class="cv-tc-sub" data-field="company"></div>
+              <ul data-list="responsibilities"><template><li data-field="."></li></template></ul>
+            </div>
+          </template>
+        </div>
+      </section>
+
+      <section data-if="references">
+        <h2>References</h2>
+        <div class="cv-tc-refs" data-list="references">
+          <template>
+            <div class="cv-tc-ref">
+              <strong data-field="name"></strong> — <span data-field="relation"></span><br>
+              <span data-field="phone"></span> &middot; <span data-field="email"></span>
+            </div>
+          </template>
+        </div>
+      </section>
+    </main>
+  </div>
+</div>
