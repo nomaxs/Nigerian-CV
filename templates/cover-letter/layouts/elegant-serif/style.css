@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,600;1,500&family=Inter:wght@400;500;600&display=swap');
+
+.cl4{ font-family: 'Inter', sans-serif; color: var(--t-ink, #221A1C); font-size: 13.5px; line-height: 1.75; padding: 58px 64px; min-height: 1100px; background: #fff; }
+.cl4-head{ text-align: center; margin-bottom: 30px; }
+.cl4-head strong{ font-family: 'Fraunces', serif; font-size: 24px; font-weight: 600; color: var(--t-primary, #6E2439); }
+.cl4-rule{ width: 46px; height: 2px; background: var(--t-accent, #6E2439); margin: 10px auto; }
+.cl4-contact{ font-size: 12px; color: var(--t-muted, #7A6870); }
+.cl4-date{ text-align: center; color: var(--t-muted, #7A6870); font-size: 12.5px; margin-bottom: 24px; font-style: italic; }
+.cl4-recipient{ margin-bottom: 22px; }
+.cl4-recipient div:first-child{ font-weight: 700; }
+.cl4-salutation{ margin-bottom: 16px; font-weight: 600; }
+.cl4-body p{ margin-bottom: 14px; text-align: justify; }
+.cl4-closing{ margin-top: 8px; }
+.cl4-signature{ font-family: 'Fraunces', serif; font-style: italic; font-size: 16px; margin-top: 4px; color: var(--t-primary, #6E2439); }
+          
