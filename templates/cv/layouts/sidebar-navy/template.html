@@ -1,0 +1,95 @@
+<div class="cv cv-se">
+  <aside class="cv-se-side">
+    <div class="cv-se-mark">CV</div>
+    <h1 data-field="personal.fullName" class="cv-se-name">Full Name</h1>
+    <p class="cv-se-title" data-field="personal.title"></p>
+
+    <div class="cv-se-block">
+      <h3>Contact</h3>
+      <ul class="cv-se-contact">
+        <li data-field="personal.phone"></li>
+        <li data-field="personal.email"></li>
+        <li data-field="personal.location"></li>
+        <li data-field="personal.linkedin" data-if="personal.linkedin"></li>
+      </ul>
+    </div>
+
+    <div class="cv-se-block" data-if="skills">
+      <h3>Skills</h3>
+      <ul class="cv-se-pills" data-list="skills">
+        <template><li data-field="."></li></template>
+      </ul>
+    </div>
+
+    <div class="cv-se-block" data-if="languages">
+      <h3>Languages</h3>
+      <ul class="cv-se-plain" data-list="languages">
+        <template><li data-field="."></li></template>
+      </ul>
+    </div>
+
+    <div class="cv-se-block" data-if="certifications">
+      <h3>Certifications</h3>
+      <ul class="cv-se-plain" data-list="certifications">
+        <template><li data-field="."></li></template>
+      </ul>
+    </div>
+  </aside>
+
+  <main class="cv-se-main">
+    <section data-if="personal.summary">
+      <h2>Profile</h2>
+      <p class="cv-se-summary" data-field-html="personal.summary"></p>
+    </section>
+
+    <section data-if="experience">
+      <h2>Work Experience</h2>
+      <div data-list="experience">
+        <template>
+          <div class="cv-se-exp">
+            <div class="cv-se-exp-head">
+              <strong data-field="position"></strong>
+              <span data-field="dates"></span>
+            </div>
+            <div class="cv-se-exp-company" data-field="company"></div>
+            <ul class="cv-se-exp-list" data-list="responsibilities">
+              <template><li data-field="."></li></template>
+            </ul>
+          </div>
+        </template>
+      </div>
+    </section>
+
+    <section data-if="education">
+      <h2>Education</h2>
+      <div data-list="education">
+        <template>
+          <div class="cv-se-edu">
+            <div class="cv-se-edu-head">
+              <strong data-field="degree"></strong>
+              <span data-field="year"></span>
+            </div>
+            <div data-field="course"></div>
+            <div class="cv-se-edu-inst" data-field="institution"></div>
+          </div>
+        </template>
+      </div>
+    </section>
+
+    <section data-if="references">
+      <h2>References</h2>
+      <div class="cv-se-refs" data-list="references">
+        <template>
+          <div class="cv-se-ref">
+            <strong data-field="name"></strong>
+            <span data-field="relation"></span>
+            <div class="cv-se-ref-contact">
+              <span data-field="phone"></span>
+              <span data-field="email"></span>
+            </div>
+          </div>
+        </template>
+      </div>
+    </section>
+  </main>
+</div>
