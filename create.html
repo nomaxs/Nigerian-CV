@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<title>Fill in your details — Nigerian CV</title>
+<meta name="robots" content="noindex,follow">
+<link rel="stylesheet" href="css/theme.css">
+<style>
+  body[data-type="cv"] .only-cl{ display:none; }
+  body[data-type="cover-letter"] .only-cv{ display:none; }
+</style>
+</head>
+<body class="form-shell">
+
+  <div class="topbar">
+    <a class="back-link" id="backLink" href="cv.html">← Change template</a>
+    <div class="brand"><img class="seal" src="assets/logo.svg" alt="Nigerian CV logo" width="30" height="30">Nigerian CV</div>
+  </div>
+  <nav class="site-nav">
+    <a href="index.html">Home</a>
+    <a href="cv.html">CV Templates</a>
+    <a href="cover-letter.html">Cover Letters</a>
+    <a href="guides/index.html">Guides</a>
+      <a href="samples/index.html">Sample PDFs</a>
+  </nav>
+
+  <div class="form-card wrap">
+    <div class="form-hero">
+      <div class="mark">📝</div>
+      <h1 id="formTitle">Fill in your details</h1>
+      <p id="formSub">Your information stays on this device until you're ready to download.</p>
+    </div>
+
+    <!-- ===== Personal details (both types) ===== -->
+    <div class="section-block">
+      <div class="section-title"><h2>Personal Details</h2></div>
+      <div class="field"><label>Full name</label><input id="f_fullName" placeholder="e.g. Chinedu Okafor" /></div>
+      <div class="field only-cv" id="photoField" style="display:none;">
+        <label>Photo (optional)</label>
+        <input type="file" id="f_photo" accept="image/*" />
+        <div id="photoPreviewWrap"></div>
+      </div>
+      <div class="field only-cv"><label>Professional title</label><input id="f_title" placeholder="e.g. Software Engineer" /></div>
+      <div class="field-row">
+        <div class="field"><label>Phone</label><input id="f_phone" placeholder="+234…" /></div>
+        <div class="field"><label>Email</label><input id="f_email" placeholder="you@email.com" /></div>
+      </div>
+      <div class="field"><label>Location</label><input id="f_location" placeholder="e.g. Lekki, Lagos" /></div>
+      <div class="field only-cv"><label>LinkedIn (optional)</label><input id="f_linkedin" placeholder="linkedin.com/in/…" /></div>
+      <div class="field only-cv"><label>Career summary</label><textarea id="f_summary" placeholder="2–3 sentences about your experience and strengths"></textarea></div>
+    </div>
+
+    <!-- ===== CV-only sections ===== -->
+    <div class="only-cv">
+      <div class="section-block">
+        <div class="section-title"><h2>Education</h2><span class="count" id="eduCount">0</span></div>
+        <div id="eduList"></div>
+        <button type="button" class="add-row-btn" id="addEdu">+ Add education</button>
+      </div>
+
+      <div class="section-block">
+        <div class="section-title"><h2>Work Experience</h2><span class="count" id="expCount">0</span></div>
+        <div id="expList"></div>
+        <button type="button" class="add-row-btn" id="addExp">+ Add work experience</button>
+      </div>
+
+      <div class="section-block">
+        <div class="section-title"><h2>Skills</h2></div>
+        <div class="tag-input-wrap" id="skillsWrap"><input id="skillsInput" placeholder="Type a skill" /><button type="button" class="tag-add-btn" id="skillsAddBtn">Add</button></div>
+      </div>
+
+      <div class="section-block">
+        <div class="section-title"><h2>Certifications</h2></div>
+        <div class="tag-input-wrap" id="certsWrap"><input id="certsInput" placeholder="Type a certification" /><button type="button" class="tag-add-btn" id="certsAddBtn">Add</button></div>
+      </div>
+
+      <div class="section-block">
+        <div class="section-title"><h2>Languages</h2></div>
+        <div class="tag-input-wrap" id="langsWrap"><input id="langsInput" placeholder="Type a language" /><button type="button" class="tag-add-btn" id="langsAddBtn">Add</button></div>
+      </div>
+
+      <div class="section-block">
+        <div class="section-title"><h2>References</h2><span class="count" id="refCount">0</span></div>
+        <div id="refList"></div>
+        <button type="button" class="add-row-btn" id="addRef">+ Add reference</button>
+      </div>
+    </div>
+
+    <!-- ===== Cover-letter-only sections ===== -->
+    <div class="only-cl">
+      <div class="section-block">
+        <div class="section-title"><h2>Recipient</h2></div>
+        <div class="field"><label>Hiring manager / title</label><input id="f_recipientName" placeholder="e.g. The Hiring Manager" /></div>
+        <div class="field"><label>Company</label><input id="f_company" placeholder="Company name" /></div>
+        <div class="field"><label>Company address</label><input id="f_companyAddress" placeholder="Street, City" /></div>
+      </div>
+
+      <div class="section-block">
+        <div class="section-title"><h2>Letter</h2></div>
+        <div class="field"><label>Date</label><input id="f_date" /></div>
+        <div class="field"><label>Salutation</label><input id="f_salutation" placeholder="Dear Hiring Manager," /></div>
+        <div id="bodyList"></div>
+        <button type="button" class="add-row-btn" id="addBody">+ Add paragraph</button>
+        <div class="field" style="margin-top:12px;"><label>Closing</label><input id="f_closing" placeholder="Yours faithfully," /></div>
+      </div>
+    </div>
+
+    <div style="height: 70px;"></div>
+  </div>
+
+  <div class="sticky-bar">
+    <div class="sticky-bar-inner">
+      <button type="button" class="btn btn-ghost" id="clearBtn">Clear</button>
+      <button type="button" class="btn btn-sage btn-block" id="previewBtn">Preview →</button>
+    </div>
+  </div>
+
+  <script src="js/util.js"></script>
+  <script src="js/form.js"></script>
+</body>
+</html>

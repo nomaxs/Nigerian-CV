@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<title>Cover Letter Templates — Nigerian CV</title>
+<meta name="description" content="Browse 15 Nigerian-style cover letter designs — colour and black-and-white — across 46 job categories. No sign-up, download in minutes.">
+<link rel="canonical" href="https://nigeriancv.example.com/cover-letter.html">
+<meta property="og:title" content="Free Nigerian Cover Letter Templates — Nigerian CV">
+<meta property="og:description" content="15 cover letter designs — colour and black-and-white — across 46 job categories. No sign-up.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://nigeriancv.example.com/assets/og-image.png">
+<link rel="stylesheet" href="css/theme.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nigeriancv.example.com/index.html" },
+    { "@type": "ListItem", "position": 2, "name": "Cover Letter Templates", "item": "https://nigeriancv.example.com/cover-letter.html" }
+  ]
+}
+</script>
+</head>
+<body class="mesh-bg" data-doc-type="cover-letter">
+
+  <div class="topbar">
+    <a class="back-link" href="index.html">← Home</a>
+    <div class="brand"><img class="seal" src="assets/logo.svg" alt="Nigerian CV logo" width="30" height="30">Nigerian CV</div>
+  </div>
+  <nav class="site-nav">
+    <a href="index.html">Home</a>
+    <a href="cv.html">CV Templates</a>
+    <a href="cover-letter.html" class="active">Cover Letters</a>
+    <a href="guides/index.html">Guides</a>
+      <a href="samples/index.html">Sample PDFs</a>
+  </nav>
+
+  <div class="wrap">
+    <h1 style="font-size:24px;margin-top:6px;">Choose a cover letter template</h1>
+    <p class="muted" style="margin-top:6px;font-size:14px;">15 designs across 46 job categories — pick yours below, then tap any template for a full-size, live preview.</p>
+
+    <div class="filter-row" id="themeFilterRow">
+      <button type="button" class="filter-chip active" data-filter="all">All styles</button>
+      <button type="button" class="filter-chip" data-filter="color">Colour only</button>
+      <button type="button" class="filter-chip" data-filter="mono">Black &amp; White only</button>
+    </div>
+
+    <form class="search-bar" style="margin-top:14px;" onsubmit="return false;">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M20 20L16.6 16.6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="searchInput" type="text" placeholder="Banking, Engineering, Teaching…" />
+    </form>
+
+    <div class="chip-row" id="chipRow"></div>
+
+    <div class="gallery-grid" id="galleryGrid"></div>
+
+    <div class="empty-state" id="emptyState" style="display:none;">
+      <h3>No templates to show</h3>
+      <p>Try a different job category.</p>
+    </div>
+  </div>
+
+  <div class="overlay" id="previewOverlay">
+    <div class="overlay-panel">
+      <div class="overlay-frame-wrap">
+        <iframe id="overlayFrame" src="about:blank" title="Template preview"></iframe>
+      </div>
+      <div class="overlay-actions" style="flex-direction:column;gap:8px;">
+        <p id="overlayTitle" class="muted" style="font-size:13px;font-weight:700;color:var(--ink);width:100%;"></p>
+        <div style="display:flex;gap:10px;width:100%;">
+          <a class="btn btn-ghost" href="#" onclick="document.getElementById('previewOverlay').classList.remove('open');return false;">Close</a>
+          <a class="btn btn-primary btn-block" id="overlayUseBtn" href="#">Use Template</a>
+        </div>
+      </div>
+    </div>
+    <div class="overlay-close" id="overlayClose">✕</div>
+  </div>
+
+  <script src="js/gallery.js"></script>
+</body>
+</html>

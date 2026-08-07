@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<title>Preview — Nigerian CV</title>
+<meta name="robots" content="noindex,follow">
+<link rel="stylesheet" href="css/theme.css">
+</head>
+<body class="preview-shell">
+
+  <div class="topbar">
+    <a class="back-link" id="editLink" href="create.html">← Edit</a>
+    <div class="brand"><img class="seal" src="assets/logo.svg" alt="Nigerian CV logo" width="30" height="30">Nigerian CV</div>
+  </div>
+
+  <p class="center muted" style="font-size:13px;margin-top:6px;">Looking good? Download it below.</p>
+
+  <div class="preview-doc-wrap">
+    <div class="preview-doc-frame">
+      <iframe id="docFrame" src="about:blank" title="Your document"></iframe>
+    </div>
+  </div>
+
+  <div class="sticky-bar">
+    <div class="sticky-bar-inner">
+      <a class="btn btn-ghost" id="editLink2" href="create.html">Edit</a>
+      <button type="button" class="btn btn-coral btn-block" id="downloadBtn">Download PDF</button>
+    </div>
+  </div>
+
+  <div class="ad-modal" id="adModal">
+    <div class="ad-card">
+      <div class="amber-ring"></div>
+      <h3 style="font-size:16px;">Watch a short video to download</h3>
+      <p class="muted" style="font-size:13px;margin-top:6px;">This keeps Nigerian CV free — your download starts right after.</p>
+      <div class="ad-progress"><div class="ad-progress-fill" id="adFill"></div></div>
+      <p class="muted" id="adTimer" style="font-size:12px;margin-top:4px;">5s</p>
+    </div>
+  </div>
+
+  <script src="js/util.js"></script>
+  <script>
+    const type = qs('type', 'cv');
+    const layout = qs('layout', '');
+    const theme = qs('theme', 'signature');
+    const editHref = `create.html?type=${type}&layout=${layout}&theme=${theme}`;
+    document.getElementById('editLink').href = editHref;
+    document.getElementById('editLink2').href = editHref;
+
+    const meta = JSON.parse(sessionStorage.getItem('builderMeta') || '{}');
+    if (!sessionStorage.getItem('builderData')) {
+      location.href = editHref; // nothing filled in yet — send them back to the form
+    }
+
+    const frame = document.getElementById('docFrame');
+    const frameWrap = frame.parentElement;
+    frame.src = `render.html?type=${type}&layout=${layout}&theme=${theme}&mode=live`;
+    frame.style.width = '850px';
+    frame.style.transformOrigin = 'top left';
+
+    function fitFrame() {
+      try {
+        const doc = frame.contentDocument;
+        const h = (doc.getElementById('doc-root') || doc.body).scrollHeight || 1100;
+        const scale = frameWrap.clientWidth / 850;
+        frame.style.height = h + 'px';
+        frame.style.transform = `scale(${scale})`;
+        frameWrap.style.height = (h * scale) + 'px';
+      } catch (e) { /* cross-origin or not ready yet */ }
+    }
+    frame.addEventListener('load', () => setTimeout(fitFrame, 60));
+    window.addEventListener('resize', fitFrame);
+
+    const adModal = document.getElementById('adModal');
+    const adFill = document.getElementById('adFill');
+    const adTimer = document.getElementById('adTimer');
+    const downloadBtn = document.getElementById('downloadBtn');
+
+    downloadBtn.addEventListener('click', () => {
+      adModal.classList.add('open');
+      let elapsed = 0;
+      const total = 5000;
+      const iv = setInterval(() => {
+        elapsed += 100;
+        const pct = Math.min(100, (elapsed / total) * 100);
+        adFill.style.width = pct + '%';
+        adTimer.textContent = Math.ceil((total - elapsed) / 1000) + 's';
+        if (elapsed >= total) {
+          clearInterval(iv);
+          adModal.classList.remove('open');
+          triggerDownload();
+        }
+      }, 100);
+    });
+
+    function triggerDownload() {
+      showToast('Opening print dialog — choose "Save as PDF"');
+      setTimeout(() => {
+        try { frame.contentWindow.focus(); frame.contentWindow.print(); }
+        catch (e) { window.print(); }
+      }, 300);
+    }
+  </script>
+</body>
+</html>

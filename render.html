@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<title>Document</title>
+<meta name="robots" content="noindex,nofollow">
+<style>
+  *{ box-sizing: border-box; }
+  html,body{ margin:0; padding:0; background:#fff; }
+  #doc-root{ width: 850px; min-height: 1100px; background:#fff; }
+  #state-msg{ font-family: sans-serif; padding: 40px; color:#888; text-align:center; }
+</style>
+<style id="theme-vars"></style>
+<link id="tpl-style" rel="stylesheet" href="">
+</head>
+<body>
+  <div id="doc-root"><p id="state-msg">Loading document…</p></div>
+
+  <script src="js/render.js"></script>
+  <script>
+    (async function () {
+      const params = new URLSearchParams(location.search);
+      const type = params.get('type') || 'cv';
+      const layout = params.get('layout') || '';
+      const theme = params.get('theme') || 'signature';
+      const profession = params.get('profession') || '';
+      const mode = params.get('mode') || 'sample';
+      const base = `templates/${type}/layouts/${layout}/`;
+      const root = document.getElementById('doc-root');
+
+      if (!layout) {
+        root.innerHTML = '<p id="state-msg">No template selected.</p>';
+        return;
+      }
+
+      document.getElementById('tpl-style').setAttribute('href', base + 'style.css');
+
+      try {
+        const [layoutsData, professionsData] = await Promise.all([
+          fetch('data/layouts.json').then((r) => r.json()),
+          mode === 'live' ? Promise.resolve(null) : fetch('data/professions.json').then((r) => r.json()),
+        ]);
+
+        // ---- resolve the colour theme for this layout ----
+        let colors;
+        if (theme === 'mono') {
+          colors = layoutsData.mono.colors;
+        } else {
+          const layoutMeta = (layoutsData[type] || []).find((l) => l.id === layout);
+          colors = (layoutMeta && layoutMeta.themes && layoutMeta.themes[theme]) || (layoutMeta && layoutMeta.themes && layoutMeta.themes.signature);
+        }
+        if (colors) {
+          const vars = Object.entries(colors)
+            .filter(([k]) => k !== 'label')
+            .map(([k, v]) => `--t-${k.replace(/([A-Z])/g, '-$1').toLowerCase()}: ${v};`)
+            .join(' ');
+          document.getElementById('theme-vars').textContent = `:root{ ${vars} }`;
+        }
+
+        // ---- resolve the data ----
+        let data;
+        if (mode === 'live') {
+          data = JSON.parse(sessionStorage.getItem('builderData') || '{}');
+        } else {
+          const list = (professionsData[type] || []);
+          const entry = list.find((p) => p.id === profession) || list[0];
+          data = entry ? entry.sample : {};
+        }
+
+        const htmlText = await fetch(base + 'template.html').then((r) => r.text());
+        root.innerHTML = htmlText;
+        window.TemplateEngine.renderInto(root, data);
+        window.parent && window.parent.postMessage({ cvBuilderRendered: true }, '*');
+      } catch (err) {
+        root.innerHTML = '<p id="state-msg">Couldn\'t load this template.</p>';
+        console.error(err);
+      }
+    })();
+  </script>
+</body>
+</html>
