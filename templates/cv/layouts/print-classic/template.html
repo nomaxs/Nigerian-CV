@@ -1,0 +1,71 @@
+<div class="cv cv-pc">
+  <header class="cv-pc-head">
+    <h1 data-field="personal.fullName">Full Name</h1>
+    <p class="cv-pc-title" data-field="personal.title"></p>
+    <div class="cv-pc-rule"></div>
+    <ul class="cv-pc-contact">
+      <li data-field="personal.phone"></li>
+      <li data-field="personal.email"></li>
+      <li data-field="personal.location"></li>
+      <li data-field="personal.linkedin" data-if="personal.linkedin"></li>
+    </ul>
+  </header>
+
+  <section data-if="personal.summary">
+    <h2>Profile</h2>
+    <p data-field-html="personal.summary"></p>
+  </section>
+
+  <section data-if="experience">
+    <h2>Work Experience</h2>
+    <div data-list="experience">
+      <template>
+        <div class="cv-pc-item">
+          <div class="cv-pc-item-head"><strong data-field="position"></strong><span data-field="dates"></span></div>
+          <div class="cv-pc-sub" data-field="company"></div>
+          <ul data-list="responsibilities"><template><li data-field="."></li></template></ul>
+        </div>
+      </template>
+    </div>
+  </section>
+
+  <section data-if="education">
+    <h2>Education</h2>
+    <div data-list="education">
+      <template>
+        <div class="cv-pc-item">
+          <div class="cv-pc-item-head"><strong data-field="degree"></strong><span data-field="year"></span></div>
+          <div data-field="course"></div>
+          <div class="cv-pc-sub" data-field="institution"></div>
+        </div>
+      </template>
+    </div>
+  </section>
+
+  <div class="cv-pc-cols">
+    <section data-if="skills">
+      <h2>Skills</h2>
+      <ul class="cv-pc-plain" data-list="skills"><template><li data-field="."></li></template></ul>
+    </section>
+    <section data-if="certifications">
+      <h2>Certifications</h2>
+      <ul class="cv-pc-plain" data-list="certifications"><template><li data-field="."></li></template></ul>
+    </section>
+    <section data-if="languages">
+      <h2>Languages</h2>
+      <ul class="cv-pc-plain" data-list="languages"><template><li data-field="."></li></template></ul>
+    </section>
+  </div>
+
+  <section data-if="references">
+    <h2>References</h2>
+    <div class="cv-pc-refs" data-list="references">
+      <template>
+        <div class="cv-pc-ref">
+          <strong data-field="name"></strong> — <span data-field="relation"></span><br>
+          <span data-field="phone"></span> &middot; <span data-field="email"></span>
+        </div>
+      </template>
+    </div>
+  </section>
+</div>
