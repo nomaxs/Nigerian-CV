@@ -1,0 +1,137 @@
+[
+  [
+    "cv-sidebar-navy-signature",
+    "CV \u2014 Sidebar (Signature colour) \u2014 Software Engineer",
+    "cv",
+    "sidebar-navy",
+    "signature",
+    "software-engineer",
+    95.4
+  ],
+  [
+    "cv-minimal-ats-signature",
+    "CV \u2014 Minimal ATS (Signature) \u2014 Graduate / NYSC",
+    "cv",
+    "minimal-ats",
+    "signature",
+    "graduate-nysc",
+    56.9
+  ],
+  [
+    "cv-banking-band-signature",
+    "CV \u2014 Header Band (Signature) \u2014 Banking & Finance",
+    "cv",
+    "banking-band",
+    "signature",
+    "banking-finance",
+    71.3
+  ],
+  [
+    "cv-two-column-classic-signature",
+    "CV \u2014 Two-Column Classic (Signature) \u2014 Legal / Paralegal",
+    "cv",
+    "two-column-classic",
+    "signature",
+    "legal-paralegal",
+    54.2
+  ],
+  [
+    "cv-timeline-clean-signature",
+    "CV \u2014 Timeline (Signature) \u2014 Nurse / Healthcare",
+    "cv",
+    "timeline-clean",
+    "signature",
+    "nurse-healthcare",
+    65.2
+  ],
+  [
+    "cv-compact-modern-signature",
+    "CV \u2014 Compact Modern (Signature) \u2014 Sales & Marketing",
+    "cv",
+    "compact-modern",
+    "signature",
+    "sales-marketing",
+    60.9
+  ],
+  [
+    "cv-portrait-modern-signature",
+    "CV \u2014 Portrait Modern (Signature) \u2014 Hospitality & Hotel",
+    "cv",
+    "portrait-modern",
+    "signature",
+    "hospitality-hotel",
+    60.5
+  ],
+  [
+    "cv-print-classic-bw",
+    "CV \u2014 Print Classic \u2014 Customer Service & Admin",
+    "cv",
+    "print-classic",
+    "signature",
+    "customer-service-admin",
+    40.4
+  ],
+  [
+    "cv-sidebar-navy-mono",
+    "CV \u2014 Sidebar (Black & White) \u2014 Engineering",
+    "cv",
+    "sidebar-navy",
+    "mono",
+    "engineering-technical",
+    86.5
+  ],
+  [
+    "cl-classic-block-signature",
+    "Cover Letter \u2014 Classic Block (Signature) \u2014 General",
+    "cover-letter",
+    "classic-block",
+    "signature",
+    "general",
+    39.2
+  ],
+  [
+    "cl-modern-header-signature",
+    "Cover Letter \u2014 Modern Header (Signature) \u2014 Sales & Marketing",
+    "cover-letter",
+    "modern-header",
+    "signature",
+    "sales-marketing",
+    46.0
+  ],
+  [
+    "cl-minimal-line-signature",
+    "Cover Letter \u2014 Minimal Line (Signature) \u2014 Engineering",
+    "cover-letter",
+    "minimal-line",
+    "signature",
+    "engineering-technical",
+    29.2
+  ],
+  [
+    "cl-elegant-serif-signature",
+    "Cover Letter \u2014 Elegant Serif (Signature) \u2014 Legal / Paralegal",
+    "cover-letter",
+    "elegant-serif",
+    "signature",
+    "legal-paralegal",
+    45.3
+  ],
+  [
+    "cl-print-minimal-bw",
+    "Cover Letter \u2014 Print Minimal \u2014 Teacher / Education",
+    "cover-letter",
+    "print-minimal",
+    "signature",
+    "teacher-education",
+    31.8
+  ],
+  [
+    "cl-classic-block-mono",
+    "Cover Letter \u2014 Classic Block (Black & White) \u2014 Government",
+    "cover-letter",
+    "classic-block",
+    "mono",
+    "government-civil-service",
+    40.6
+  ]
+]
