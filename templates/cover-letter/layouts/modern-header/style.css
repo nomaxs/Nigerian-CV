@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+.cl2{ font-family: 'Inter', sans-serif; color: var(--t-ink, #22231E); font-size: 13.5px; line-height: 1.7; min-height: 1100px; background: #fff; }
+.cl2-head{ background: var(--t-primary, #E4602F); color: var(--t-primary-ink, #fff); padding: 40px 50px 26px; }
+.cl2-head strong{ display: block; font-size: 20px; font-weight: 800; }
+.cl2-contact{ margin-top: 8px; display: flex; flex-wrap: wrap; gap: 5px 16px; font-size: 12.5px; opacity: .92; }
+.cl2-body-wrap{ padding: 34px 50px 50px; }
+.cl2-date{ color: var(--t-muted, #767268); font-size: 12.5px; margin-bottom: 20px; }
+.cl2-recipient{ margin-bottom: 20px; color: var(--t-ink, #333); }
+.cl2-recipient div:first-child{ font-weight: 700; }
+.cl2-salutation{ margin-bottom: 16px; font-weight: 600; }
+.cl2-body p{ margin-bottom: 14px; text-align: justify; color: var(--t-ink, #2A2A2A); }
+.cl2-closing{ margin-top: 8px; }
+.cl2-signature{ font-weight: 800; font-size: 14.5px; margin-top: 4px; color: var(--t-primary, #E4602F); }
