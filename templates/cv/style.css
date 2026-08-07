@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Inter:wght@400;500;600;700;800&display=swap');
+
+.cv-bk{
+  font-family: 'Inter', sans-serif;
+  color: var(--t-ink, #22231E);
+  font-size: 13.5px;
+  line-height: 1.55;
+  min-height: 1100px;
+  background: #fff;
+}
+.cv-bk-head{
+  background: var(--t-primary, #12233F);
+  color: var(--t-primary-ink, #fff);
+  padding: 40px 44px 26px;
+  border-bottom: 4px solid var(--t-accent, #C9A24B);
+}
+.cv-bk-head h1{ font-family: 'Fraunces', serif; font-size: 28px; font-weight: 700; }
+.cv-bk-title{ font-size: 13px; color: var(--t-accent, #C9A24B); font-weight: 700; letter-spacing: .03em; text-transform: uppercase; margin-top: 5px; }
+.cv-bk-contact{ list-style: none; margin: 14px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 5px 16px; font-size: 12px; color: var(--t-primary-ink, #D9E0EC); opacity: .92; }
+
+.cv-bk-body{ display: grid; grid-template-columns: 240px 1fr; }
+.cv-bk-col-left{ background: var(--t-surface, #F6F4EC); padding: 32px 26px; border-right: 1px solid var(--t-line, #E7E2D2); }
+.cv-bk-col-right{ padding: 32px 34px; }
+.cv-bk-col section{ margin-bottom: 24px; }
+.cv-bk-col h2{
+  font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; font-weight: 800;
+  color: var(--t-primary, #12233F); margin: 0 0 12px; padding-bottom: 6px; border-bottom: 2px solid var(--t-accent, #C9A24B);
+}
+.cv-bk-item{ margin-bottom: 14px; }
+.cv-bk-item strong{ display: block; font-size: 13px; }
+.cv-bk-sub{ color: var(--t-muted, #55584E); font-size: 12.5px; }
+.cv-bk-year{ color: var(--t-muted, #8A8D80); font-size: 11.5px; margin-top: 2px; }
+.cv-bk-plain{ list-style: none; margin: 0; padding: 0; }
+.cv-bk-plain li{ font-size: 12.5px; margin-bottom: 6px; padding-left: 12px; position: relative; }
+.cv-bk-plain li::before{ content: ''; position: absolute; left: 0; top: 7px; width: 5px; height: 5px; background: var(--t-accent, #C9A24B); border-radius: 1px; }
+
+.cv-bk-exp{ margin-bottom: 16px; }
+.cv-bk-exp-head{ display: flex; justify-content: space-between; gap: 10px; }
+.cv-bk-exp-head strong{ font-size: 14px; }
+.cv-bk-exp-head span{ font-size: 11.5px; color: var(--t-muted, #8A8D80); font-weight: 600; white-space: nowrap; }
+.cv-bk-exp ul{ margin: 6px 0 0; padding-left: 16px; }
+.cv-bk-exp ul li{ margin-bottom: 3px; color: var(--t-ink, #3D3F37); }
+
+.cv-bk-refs{ display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.cv-bk-ref{ font-size: 12.5px; color: var(--t-ink, #3D3F37); }
