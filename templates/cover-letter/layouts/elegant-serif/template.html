@@ -1,0 +1,28 @@
+<div class="cl4">
+  <header class="cl4-head">
+    <strong data-field="personal.fullName"></strong>
+    <div class="cl4-rule"></div>
+    <div class="cl4-contact">
+      <span data-field="personal.location"></span> &middot;
+      <span data-field="personal.phone"></span> &middot;
+      <span data-field="personal.email"></span>
+    </div>
+  </header>
+
+  <div class="cl4-date" data-field="date"></div>
+
+  <div class="cl4-recipient" data-if="recipient.hiringManager">
+    <div data-field="recipient.hiringManager"></div>
+    <div data-field="recipient.company"></div>
+    <div data-field="recipient.companyAddress"></div>
+  </div>
+
+  <p class="cl4-salutation" data-field="salutation">Dear Hiring Manager,</p>
+
+  <div class="cl4-body" data-list="body">
+    <template><p data-field="."></p></template>
+  </div>
+
+  <p class="cl4-closing" data-field="closing">Yours faithfully,</p>
+  <p class="cl4-signature" data-field="personal.fullName"></p>
+</div>
