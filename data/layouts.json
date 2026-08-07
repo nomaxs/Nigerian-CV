@@ -1,0 +1,373 @@
+{
+  "mono": {
+    "id": "mono",
+    "label": "Black & White",
+    "kind": "mono",
+    "colors": {
+      "primary": "#1A1A1A",
+      "primaryInk": "#FFFFFF",
+      "accent": "#3D3D3D",
+      "ink": "#141414",
+      "muted": "#5C5C5C",
+      "line": "#CBCBCB",
+      "surface": "#F0F0EF"
+    }
+  },
+  "cv": [
+    {
+      "id": "sidebar-navy",
+      "name": "Sidebar",
+      "description": "Full-height colour sidebar with contact, skills and certifications; main column for experience.",
+      "themes": {
+        "signature": {
+          "label": "Navy & Coral",
+          "primary": "#1B2E6B",
+          "primaryInk": "#EAF0FF",
+          "accent": "#E4602F",
+          "ink": "#1B2437",
+          "muted": "#798199",
+          "line": "rgba(255,255,255,.18)",
+          "surface": "#1B2E6B"
+        },
+        "alt": {
+          "label": "Forest & Gold",
+          "primary": "#123324",
+          "primaryInk": "#E7F5EC",
+          "accent": "#D8A13A",
+          "ink": "#1B2437",
+          "muted": "#7C9188",
+          "line": "rgba(255,255,255,.18)",
+          "surface": "#123324"
+        }
+      }
+    },
+    {
+      "id": "minimal-ats",
+      "name": "Minimal ATS",
+      "description": "Single-column, no colour blocks \u2014 the safest format for applicant-tracking systems.",
+      "themes": {
+        "signature": {
+          "label": "Ink",
+          "primary": "#1A1A1A",
+          "primaryInk": "#FFFFFF",
+          "accent": "#1B2E6B",
+          "ink": "#1A1A1A",
+          "muted": "#666666",
+          "line": "#cccccc",
+          "surface": "#F4F3EF"
+        },
+        "alt": {
+          "label": "Maroon",
+          "primary": "#1A1A1A",
+          "primaryInk": "#FFFFFF",
+          "accent": "#8A2E3B",
+          "ink": "#1A1A1A",
+          "muted": "#666666",
+          "line": "#cccccc",
+          "surface": "#F4F3EF"
+        }
+      }
+    },
+    {
+      "id": "banking-band",
+      "name": "Header Band",
+      "description": "Formal navy header band with a gold rule, two-column body \u2014 suited to finance and admin roles.",
+      "themes": {
+        "signature": {
+          "label": "Navy & Gold",
+          "primary": "#12233F",
+          "primaryInk": "#FFFFFF",
+          "accent": "#C9A24B",
+          "ink": "#22231E",
+          "muted": "#8A8D80",
+          "line": "#E7E2D2",
+          "surface": "#F6F4EC"
+        },
+        "alt": {
+          "label": "Burgundy & Gold",
+          "primary": "#3B1220",
+          "primaryInk": "#FFFFFF",
+          "accent": "#C9A24B",
+          "ink": "#22231E",
+          "muted": "#8F8078",
+          "line": "#EAD9D2",
+          "surface": "#F7EFEC"
+        }
+      }
+    },
+    {
+      "id": "two-column-classic",
+      "name": "Two-Column Classic",
+      "description": "Slim left column for the essentials, a wider right column for the story \u2014 quietly traditional.",
+      "themes": {
+        "signature": {
+          "label": "Slate Blue",
+          "primary": "#2C3E66",
+          "primaryInk": "#FFFFFF",
+          "accent": "#2C3E66",
+          "ink": "#22252C",
+          "muted": "#6B7280",
+          "line": "#DCDFE5",
+          "surface": "#F3F5F8"
+        },
+        "alt": {
+          "label": "Olive",
+          "primary": "#48512E",
+          "primaryInk": "#FFFFFF",
+          "accent": "#48512E",
+          "ink": "#22252C",
+          "muted": "#767A6B",
+          "line": "#E1E3D8",
+          "surface": "#F5F6F0"
+        }
+      }
+    },
+    {
+      "id": "timeline-clean",
+      "name": "Timeline",
+      "description": "A single flowing column with a connected timeline down experience and education \u2014 modern and easy to scan.",
+      "themes": {
+        "signature": {
+          "label": "Teal",
+          "primary": "#0E6E63",
+          "primaryInk": "#FFFFFF",
+          "accent": "#0E6E63",
+          "ink": "#1D2321",
+          "muted": "#6C7A76",
+          "line": "#DCE6E3",
+          "surface": "#F1F7F5"
+        },
+        "alt": {
+          "label": "Plum",
+          "primary": "#5B2A5E",
+          "primaryInk": "#FFFFFF",
+          "accent": "#5B2A5E",
+          "ink": "#231D24",
+          "muted": "#7B6E7C",
+          "line": "#E9DFE9",
+          "surface": "#F8F3F8"
+        }
+      }
+    },
+    {
+      "id": "compact-modern",
+      "name": "Compact Modern",
+      "description": "Boxed sections with a bold monogram header \u2014 dense and confident, good for longer work histories.",
+      "themes": {
+        "signature": {
+          "label": "Cobalt",
+          "primary": "#1D4ED8",
+          "primaryInk": "#FFFFFF",
+          "accent": "#1D4ED8",
+          "ink": "#181A1F",
+          "muted": "#666D7A",
+          "line": "#E1E4EA",
+          "surface": "#EEF2FC"
+        },
+        "alt": {
+          "label": "Rust",
+          "primary": "#B4472A",
+          "primaryInk": "#FFFFFF",
+          "accent": "#B4472A",
+          "ink": "#1E1917",
+          "muted": "#79706B",
+          "line": "#EAE0D9",
+          "surface": "#FBF1EA"
+        }
+      },
+      "supportsPhoto": true
+    },
+    {
+      "id": "portrait-modern",
+      "name": "Portrait Modern",
+      "description": "Centred header with an uploaded photo \u2014 clean and modern, great for client-facing and hospitality roles.",
+      "supportsPhoto": true,
+      "themes": {
+        "signature": {
+          "label": "Cobalt",
+          "primary": "#1D4ED8",
+          "primaryInk": "#FFFFFF",
+          "accent": "#1D4ED8",
+          "ink": "#1D2321",
+          "muted": "#6C7A76",
+          "line": "#E1E4EA",
+          "surface": "#EEF2FC"
+        },
+        "alt": {
+          "label": "Rose",
+          "primary": "#B23A63",
+          "primaryInk": "#FFFFFF",
+          "accent": "#B23A63",
+          "ink": "#231A1F",
+          "muted": "#7A6B71",
+          "line": "#F0DDE5",
+          "surface": "#FBF0F4"
+        }
+      }
+    },
+    {
+      "id": "print-classic",
+      "name": "Print Classic",
+      "description": "Bordered, rule-based design with no colour fills at all \u2014 built specifically for crisp black-and-white printing and photocopying.",
+      "themes": {
+        "signature": {
+          "label": "Ink",
+          "primary": "#1A1A1A",
+          "primaryInk": "#FFFFFF",
+          "accent": "#1A1A1A",
+          "ink": "#1A1A1A",
+          "muted": "#666666",
+          "line": "#CCCCCC",
+          "surface": "#FFFFFF"
+        },
+        "alt": {
+          "label": "Slate",
+          "primary": "#33424F",
+          "primaryInk": "#FFFFFF",
+          "accent": "#33424F",
+          "ink": "#22262A",
+          "muted": "#63707A",
+          "line": "#D6DEE3",
+          "surface": "#FFFFFF"
+        }
+      }
+    }
+  ],
+  "cover-letter": [
+    {
+      "id": "classic-block",
+      "name": "Classic Block",
+      "description": "Traditional business-letter layout \u2014 sender block, date, recipient, body.",
+      "themes": {
+        "signature": {
+          "label": "Ink",
+          "primary": "#1E1E1E",
+          "primaryInk": "#FFFFFF",
+          "accent": "#1B2E6B",
+          "ink": "#1E1E1E",
+          "muted": "#555555",
+          "line": "#D8D8D8",
+          "surface": "#F6F5F1"
+        },
+        "alt": {
+          "label": "Forest",
+          "primary": "#123324",
+          "primaryInk": "#FFFFFF",
+          "accent": "#123324",
+          "ink": "#1E1E1E",
+          "muted": "#5C6B62",
+          "line": "#DDE5E0",
+          "surface": "#F2F6F3"
+        }
+      }
+    },
+    {
+      "id": "modern-header",
+      "name": "Modern Header",
+      "description": "A coloured name-and-contact header band above the letter body.",
+      "themes": {
+        "signature": {
+          "label": "Coral",
+          "primary": "#E4602F",
+          "primaryInk": "#FFFFFF",
+          "accent": "#E4602F",
+          "ink": "#22231E",
+          "muted": "#767268",
+          "line": "#EFE2D8",
+          "surface": "#FBF2EC"
+        },
+        "alt": {
+          "label": "Navy",
+          "primary": "#1B2E6B",
+          "primaryInk": "#FFFFFF",
+          "accent": "#1B2E6B",
+          "ink": "#1B2437",
+          "muted": "#6E7690",
+          "line": "#DDE2F0",
+          "surface": "#EEF1FA"
+        }
+      }
+    },
+    {
+      "id": "minimal-line",
+      "name": "Minimal Line",
+      "description": "A single hairline under the sender's name \u2014 the plainest, most ATS-safe letter format.",
+      "themes": {
+        "signature": {
+          "label": "Ink",
+          "primary": "#1A1A1A",
+          "primaryInk": "#FFFFFF",
+          "accent": "#1A1A1A",
+          "ink": "#1A1A1A",
+          "muted": "#666666",
+          "line": "#CCCCCC",
+          "surface": "#FFFFFF"
+        },
+        "alt": {
+          "label": "Steel",
+          "primary": "#33424F",
+          "primaryInk": "#FFFFFF",
+          "accent": "#33424F",
+          "ink": "#22262A",
+          "muted": "#63707A",
+          "line": "#D6DEE3",
+          "surface": "#F4F7F8"
+        }
+      }
+    },
+    {
+      "id": "elegant-serif",
+      "name": "Elegant Serif",
+      "description": "Centred serif header, generous margins \u2014 a quietly confident, editorial feel.",
+      "themes": {
+        "signature": {
+          "label": "Wine",
+          "primary": "#6E2439",
+          "primaryInk": "#FFFFFF",
+          "accent": "#6E2439",
+          "ink": "#221A1C",
+          "muted": "#7A6870",
+          "line": "#E9DEE1",
+          "surface": "#FAF3F4"
+        },
+        "alt": {
+          "label": "Charcoal",
+          "primary": "#2A2E33",
+          "primaryInk": "#FFFFFF",
+          "accent": "#2A2E33",
+          "ink": "#1D1F22",
+          "muted": "#6A6E73",
+          "line": "#E1E2E4",
+          "surface": "#F5F5F5"
+        }
+      }
+    },
+    {
+      "id": "print-minimal",
+      "name": "Print Minimal",
+      "description": "Bordered, rule-based letter with no colour fills \u2014 designed for crisp black-and-white printing.",
+      "themes": {
+        "signature": {
+          "label": "Ink",
+          "primary": "#1A1A1A",
+          "primaryInk": "#FFFFFF",
+          "accent": "#1A1A1A",
+          "ink": "#1A1A1A",
+          "muted": "#666666",
+          "line": "#CCCCCC",
+          "surface": "#FFFFFF"
+        },
+        "alt": {
+          "label": "Slate",
+          "primary": "#33424F",
+          "primaryInk": "#FFFFFF",
+          "accent": "#33424F",
+          "ink": "#22262A",
+          "muted": "#63707A",
+          "line": "#D6DEE3",
+          "surface": "#FFFFFF"
+        }
+      }
+    }
+  ]
+}

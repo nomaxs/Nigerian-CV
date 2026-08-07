@@ -1,0 +1,4652 @@
+{
+  "cv": [
+    {
+      "id": "general",
+      "name": "General / Any Role",
+      "tags": [
+        "General",
+        "Any Role"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ngozi Eze",
+          "title": "Administrative Officer",
+          "phone": "+234 807 654 3210",
+          "email": "ngozi.eze@email.com",
+          "location": "Victoria Island, Lagos",
+          "linkedin": "",
+          "summary": "Organised administrative professional with 3 years coordinating office operations, vendor relationships and scheduling for a fast-growing logistics firm."
+        },
+        "experience": [
+          {
+            "company": "Brightpath Logistics Ltd",
+            "position": "Administrative Officer",
+            "dates": "2022 — Present",
+            "responsibilities": [
+              "Manage scheduling for a 15-person team",
+              "Oversee vendor relationships and contract renewals",
+              "Reduced procurement turnaround time by 20% through a new approval workflow"
+            ]
+          },
+          {
+            "company": "Interstate Freight Ltd",
+            "position": "Office Assistant",
+            "dates": "2020 — 2022",
+            "responsibilities": [
+              "Handled front-desk enquiries and correspondence",
+              "Maintained office supply inventory and records"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Lagos",
+            "degree": "B.A. English Language",
+            "course": "Second Class Upper",
+            "year": "2016 — 2020"
+          }
+        ],
+        "skills": [
+          "Office Administration",
+          "Scheduling",
+          "Vendor Management",
+          "Microsoft Office",
+          "Communication"
+        ],
+        "certifications": [
+          "Certificate in Office Management"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mr. Femi Adekoya",
+            "relation": "Operations Director, Brightpath Logistics",
+            "phone": "+234 803 221 5567",
+            "email": "f.adekoya@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "software-engineer",
+      "name": "Software Engineer",
+      "tags": [
+        "Software Engineer",
+        "Developer",
+        "Tech",
+        "ICT",
+        "Programmer"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chinedu Okafor",
+          "title": "Frontend Software Engineer",
+          "phone": "+234 803 555 0192",
+          "email": "chinedu.okafor@email.com",
+          "location": "Lekki, Lagos",
+          "linkedin": "linkedin.com/in/chineduokafor",
+          "summary": "Frontend engineer with 4 years building fast, accessible web products for fintech and logistics companies. Comfortable owning a feature from design hand-off to production."
+        },
+        "experience": [
+          {
+            "company": "Flutterwave",
+            "position": "Software Engineer II",
+            "dates": "Jan 2023 — Present",
+            "responsibilities": [
+              "Led the rebuild of the merchant dashboard in React, cutting page load time by 38%",
+              "Introduced a shared component library adopted across 3 product teams",
+              "Mentored 2 junior engineers through onboarding"
+            ]
+          },
+          {
+            "company": "Paystack",
+            "position": "Frontend Engineer",
+            "dates": "Jul 2021 — Dec 2022",
+            "responsibilities": [
+              "Built the checkout widget used by over 12,000 merchants",
+              "Shipped a fully accessible, WCAG-compliant UI kit"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Nigeria, Nsukka",
+            "degree": "B.Sc. Computer Science",
+            "course": "Second Class Upper",
+            "year": "2017 — 2021"
+          }
+        ],
+        "skills": [
+          "JavaScript",
+          "React",
+          "TypeScript",
+          "Node.js",
+          "REST APIs",
+          "Git",
+          "Figma"
+        ],
+        "certifications": [
+          "AWS Certified Cloud Practitioner"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Adaeze Nwankwo",
+            "relation": "Engineering Manager, Flutterwave",
+            "phone": "+234 802 111 2233",
+            "email": "adaeze.n@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "graduate-nysc",
+      "name": "Graduate / NYSC",
+      "tags": [
+        "Graduate",
+        "NYSC",
+        "Student",
+        "Entry Level",
+        "Corps Member"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Amina Bello",
+          "title": "Corps Member (NYSC) | Accounting Graduate",
+          "phone": "+234 810 222 4471",
+          "email": "amina.bello@email.com",
+          "location": "Kaduna, Nigeria",
+          "linkedin": "",
+          "summary": "Recent Accounting graduate currently serving with the NYSC, looking to bring strong analytical skills and a fast learning curve to an entry-level finance or administrative role."
+        },
+        "experience": [
+          {
+            "company": "Kaduna State Ministry of Finance (NYSC)",
+            "position": "Corps Member — Accounts Dept.",
+            "dates": "Nov 2023 — Present",
+            "responsibilities": [
+              "Reconcile monthly departmental expenditure reports",
+              "Support budget tracking spreadsheets for 3 units"
+            ]
+          },
+          {
+            "company": "First City Monument Bank (Internship)",
+            "position": "Intern, Retail Banking",
+            "dates": "Jun 2022 — Aug 2022",
+            "responsibilities": [
+              "Processed customer account opening documentation",
+              "Shadowed the reconciliation team during month-end close"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Ahmadu Bello University, Zaria",
+            "degree": "B.Sc. Accounting",
+            "course": "Second Class Upper Division",
+            "year": "2019 — 2023"
+          },
+          {
+            "institution": "Command Day Secondary School, Kaduna",
+            "degree": "WAEC / SSCE",
+            "course": "6 Credits incl. Mathematics & English",
+            "year": "2019"
+          }
+        ],
+        "skills": [
+          "Microsoft Excel",
+          "QuickBooks",
+          "Financial Reporting",
+          "Data Entry",
+          "Communication"
+        ],
+        "certifications": [
+          "ICAN Foundation (in view)"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Mr. Yusuf Garba",
+            "relation": "Head of Accounts, Kaduna State MOF",
+            "phone": "+234 806 333 1122",
+            "email": "y.garba@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "banking-finance",
+      "name": "Banking & Finance",
+      "tags": [
+        "Banking",
+        "Finance",
+        "Accountant",
+        "Admin"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Osilalu Ademuyiwa Taiwo",
+          "title": "Banking & Finance Professional",
+          "phone": "+234 813 808 1696",
+          "email": "osilalu.taiwo@email.com",
+          "location": "Abeokuta, Ogun State",
+          "linkedin": "",
+          "summary": "Detail-oriented finance professional with 6 years' experience in retail banking operations, reconciliation and customer relationship management."
+        },
+        "experience": [
+          {
+            "company": "Zenith Bank Plc",
+            "position": "Operations Officer",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Manage daily cash reconciliation for a branch handling over ₦400m in monthly transactions",
+              "Reduced complaint resolution time by 30% via a new escalation process",
+              "Train new tellers on core banking applications"
+            ]
+          },
+          {
+            "company": "Access Bank Plc",
+            "position": "Teller",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Processed 120+ customer transactions daily with zero cash variance",
+              "Cross-sold savings and loan products, exceeding targets by 15%"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Olabisi Onabanjo University (OOU)",
+            "degree": "B.Sc. Banking and Finance",
+            "course": "Second Class Upper Division",
+            "year": "2013 — 2017"
+          }
+        ],
+        "skills": [
+          "Cash Reconciliation",
+          "Customer Relationship Management",
+          "Core Banking Applications",
+          "Regulatory Compliance",
+          "MS Excel"
+        ],
+        "certifications": [
+          "Chartered Institute of Bankers of Nigeria (CIBN) — Associate"
+        ],
+        "languages": [
+          "English",
+          "Yoruba"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Funke Adeyemi",
+            "relation": "Branch Manager, Zenith Bank",
+            "phone": "+234 802 456 7890",
+            "email": "f.adeyemi@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "teacher-education",
+      "name": "Teacher / Education",
+      "tags": [
+        "Teacher",
+        "Education",
+        "School",
+        "TRCN"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Blessing Iortyer",
+          "title": "Secondary School Mathematics Teacher",
+          "phone": "+234 806 777 2214",
+          "email": "blessing.iortyer@email.com",
+          "location": "Makurdi, Benue State",
+          "linkedin": "",
+          "summary": "TRCN-certified Mathematics teacher with 5 years' classroom experience, known for raising WAEC pass rates through structured, exam-focused lesson planning."
+        },
+        "experience": [
+          {
+            "company": "Government Girls' Secondary School, Makurdi",
+            "position": "Mathematics Teacher (SS1 – SS3)",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Improved WAEC Mathematics credit pass rate from 61% to 84% over 3 sessions",
+              "Coordinate the school's mathematics club and inter-house quiz team",
+              "Set and mark termly examinations for over 200 students"
+            ]
+          },
+          {
+            "company": "Hope Model College",
+            "position": "NCE Teaching Practice",
+            "dates": "2019 — 2020",
+            "responsibilities": [
+              "Taught JSS Mathematics under supervision",
+              "Developed low-cost teaching aids for large classes"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Benue State University",
+            "degree": "B.Sc. (Ed.) Mathematics",
+            "course": "Second Class Upper",
+            "year": "2015 — 2019"
+          }
+        ],
+        "skills": [
+          "Lesson Planning",
+          "Classroom Management",
+          "WAEC/NECO Exam Preparation",
+          "Student Assessment",
+          "Microsoft Office"
+        ],
+        "certifications": [
+          "TRCN Registered Teacher"
+        ],
+        "languages": [
+          "English",
+          "Tiv"
+        ],
+        "references": [
+          {
+            "name": "Mr. Terhemba Ayem",
+            "relation": "Vice Principal (Academics)",
+            "phone": "+234 803 221 9987",
+            "email": "t.ayem@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nurse-healthcare",
+      "name": "Nurse / Healthcare",
+      "tags": [
+        "Nurse",
+        "Healthcare",
+        "Nursing",
+        "Hospital"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chiamaka Obi",
+          "title": "Registered Nurse",
+          "phone": "+234 809 441 7723",
+          "email": "chiamaka.obi@email.com",
+          "location": "Enugu, Nigeria",
+          "linkedin": "",
+          "summary": "Compassionate registered nurse with 4 years of ward and outpatient experience, skilled in patient assessment, medication administration and calm handling of emergency cases."
+        },
+        "experience": [
+          {
+            "company": "University of Nigeria Teaching Hospital (UNTH)",
+            "position": "Staff Nurse, General Ward",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Monitor and record vital signs for up to 20 patients per shift",
+              "Administer medication in line with prescribed charts and safety protocols",
+              "Support 2 newly qualified nurses through hospital onboarding"
+            ]
+          },
+          {
+            "company": "Mercy Specialist Hospital",
+            "position": "Intern Nurse",
+            "dates": "2020 — 2021",
+            "responsibilities": [
+              "Assisted senior nurses during ward rounds and minor procedures",
+              "Maintained accurate patient records"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Nigeria, Enugu Campus",
+            "degree": "B.NSc. Nursing Science",
+            "course": "Second Class Upper",
+            "year": "2015 — 2020"
+          }
+        ],
+        "skills": [
+          "Patient Assessment",
+          "Medication Administration",
+          "Wound Care",
+          "Electronic Health Records",
+          "Emergency Response"
+        ],
+        "certifications": [
+          "Registered Nurse — Nursing & Midwifery Council of Nigeria (NMCN)",
+          "Basic Life Support (BLS)"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Ijeoma Nnaji",
+            "relation": "Ward Matron, UNTH",
+            "phone": "+234 807 552 3391",
+            "email": "i.nnaji@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "government-civil-service",
+      "name": "Government / Civil Service",
+      "tags": [
+        "Government",
+        "Civil Service",
+        "Public Sector"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ibrahim Sule",
+          "title": "Administrative Officer, Grade Level 09",
+          "phone": "+234 805 662 1140",
+          "email": "ibrahim.sule@email.com",
+          "location": "Abuja, FCT",
+          "linkedin": "",
+          "summary": "Public sector administrator with 7 years managing correspondence, procurement documentation and inter-departmental coordination within a federal ministry."
+        },
+        "experience": [
+          {
+            "company": "Federal Ministry of Works",
+            "position": "Administrative Officer II",
+            "dates": "2019 — Present",
+            "responsibilities": [
+              "Coordinate correspondence between 4 departmental units",
+              "Maintain procurement records in line with due-process guidelines",
+              "Supervise 3 junior administrative staff"
+            ]
+          },
+          {
+            "company": "Nasarawa State Civil Service Commission",
+            "position": "Executive Officer (Admin)",
+            "dates": "2016 — 2019",
+            "responsibilities": [
+              "Processed staff establishment and promotion files",
+              "Organised departmental meetings and kept minutes"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Abuja",
+            "degree": "B.Sc. Public Administration",
+            "course": "Second Class Upper",
+            "year": "2011 — 2015"
+          }
+        ],
+        "skills": [
+          "Records Management",
+          "Correspondence Drafting",
+          "Procurement Documentation",
+          "Microsoft Office",
+          "Minute Taking"
+        ],
+        "certifications": [
+          "ASCON Certificate in Public Administration"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Grace Okon",
+            "relation": "Deputy Director, Federal Ministry of Works",
+            "phone": "+234 802 774 3320",
+            "email": "g.okon@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sales-marketing",
+      "name": "Sales & Marketing",
+      "tags": [
+        "Sales",
+        "Marketing",
+        "Business Development"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Damilola Fashola",
+          "title": "Sales & Marketing Executive",
+          "phone": "+234 812 990 4456",
+          "email": "damilola.fashola@email.com",
+          "location": "Ikeja, Lagos",
+          "linkedin": "linkedin.com/in/damilolafashola",
+          "summary": "Results-driven sales executive with 5 years growing FMCG distribution networks across South-West Nigeria, consistently exceeding quarterly revenue targets."
+        },
+        "experience": [
+          {
+            "company": "Nestlé Nigeria Plc",
+            "position": "Territory Sales Executive",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Grew territory revenue by 22% year-on-year across 40+ retail outlets",
+              "Onboarded 15 new distributor partners in Lagos and Ogun States",
+              "Lead a team of 4 field sales representatives"
+            ]
+          },
+          {
+            "company": "Promasidor Nigeria",
+            "position": "Sales Representative",
+            "dates": "2018 — 2021",
+            "responsibilities": [
+              "Managed a route of 60 retail accounts, hitting 105% of target on average",
+              "Ran monthly trade promotions in open markets"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Lagos State University",
+            "degree": "B.Sc. Marketing",
+            "course": "Second Class Upper",
+            "year": "2014 — 2018"
+          }
+        ],
+        "skills": [
+          "Territory Management",
+          "Trade Marketing",
+          "Negotiation",
+          "CRM Software",
+          "Team Leadership"
+        ],
+        "certifications": [
+          "Certified Sales Professional (NIMN)"
+        ],
+        "languages": [
+          "English",
+          "Yoruba"
+        ],
+        "references": [
+          {
+            "name": "Mr. Kunle Adisa",
+            "relation": "Regional Sales Manager, Nestlé Nigeria",
+            "phone": "+234 803 221 6690",
+            "email": "k.adisa@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "customer-service-admin",
+      "name": "Customer Service & Admin",
+      "tags": [
+        "Customer Service",
+        "Admin",
+        "Front Desk",
+        "Support"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Precious Effiong",
+          "title": "Customer Service Representative",
+          "phone": "+234 807 213 6690",
+          "email": "precious.effiong@email.com",
+          "location": "Uyo, Akwa Ibom",
+          "linkedin": "",
+          "summary": "Personable customer service representative with 3 years' experience resolving inquiries across phone, email and live chat for a telecoms provider."
+        },
+        "experience": [
+          {
+            "company": "9mobile Nigeria",
+            "position": "Customer Service Representative",
+            "dates": "2022 — Present",
+            "responsibilities": [
+              "Resolve an average of 70 customer inquiries daily across chat and phone",
+              "Maintain a customer satisfaction score above 92%",
+              "Trained 5 new hires on the ticketing system"
+            ]
+          },
+          {
+            "company": "Domino's Pizza Uyo",
+            "position": "Front Desk / Admin Assistant",
+            "dates": "2020 — 2022",
+            "responsibilities": [
+              "Managed walk-in customer orders and phone bookings",
+              "Reconciled daily till reports for the outlet manager"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Uyo",
+            "degree": "B.A. English Studies",
+            "course": "Second Class Upper",
+            "year": "2016 — 2020"
+          }
+        ],
+        "skills": [
+          "Customer Support",
+          "Conflict Resolution",
+          "Zendesk",
+          "Data Entry",
+          "Phone Etiquette"
+        ],
+        "certifications": [
+          "Customer Service Excellence Certificate"
+        ],
+        "languages": [
+          "English",
+          "Ibibio"
+        ],
+        "references": [
+          {
+            "name": "Mr. Emmanuel Udo",
+            "relation": "Team Lead, 9mobile",
+            "phone": "+234 806 112 4478",
+            "email": "e.udo@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "engineering-technical",
+      "name": "Engineering (Technical)",
+      "tags": [
+        "Engineering",
+        "Technical",
+        "Mechanical",
+        "Electrical",
+        "Oil & Gas"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "David Olusoga Emmanuel",
+          "title": "Petroleum / Production Engineer",
+          "phone": "+234 804 765 7432",
+          "email": "david.emmanuel@email.com",
+          "location": "Port Harcourt, Rivers State",
+          "linkedin": "",
+          "summary": "Quality-focused production engineer with a strong analytical foundation, experienced planning and supervising equipment maintenance in fast-paced drilling operations."
+        },
+        "experience": [
+          {
+            "company": "Top Notch Engineering",
+            "position": "Production Engineer",
+            "dates": "2016 — Present",
+            "responsibilities": [
+              "Analyse field operations to create improvement plans",
+              "Supervise equipment maintenance across 3 active sites",
+              "Plan and forecast drilling operations for new fields and expansions"
+            ]
+          },
+          {
+            "company": "ABC Oil & Gas",
+            "position": "Production Manager",
+            "dates": "2012 — 2015",
+            "responsibilities": [
+              "Observed equipment state and drafted maintenance reports",
+              "Presented operational findings to senior management"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Lagos",
+            "degree": "B.Sc. Petroleum Engineering",
+            "course": "Second Class Upper",
+            "year": "2005 — 2010"
+          }
+        ],
+        "skills": [
+          "Field Operations",
+          "Equipment Maintenance Planning",
+          "HSE Compliance",
+          "Technical Reporting",
+          "Team Supervision"
+        ],
+        "certifications": [
+          "HSE Level 3 Certification"
+        ],
+        "languages": [
+          "English",
+          "Yoruba"
+        ],
+        "references": [
+          {
+            "name": "Engr. Samuel Adigun",
+            "relation": "Operations Manager, Top Notch Engineering",
+            "phone": "+234 802 998 1123",
+            "email": "s.adigun@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hospitality-hotel",
+      "name": "Hospitality & Hotel",
+      "tags": [
+        "Hospitality",
+        "Hotel",
+        "Front Desk",
+        "Tourism"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Halima Yusuf",
+          "title": "Hotel Front Desk Supervisor",
+          "phone": "+234 810 336 2298",
+          "email": "halima.yusuf@email.com",
+          "location": "Abuja, FCT",
+          "linkedin": "",
+          "summary": "Warm, detail-oriented hospitality professional with 4 years managing front-desk operations for a 3-star business hotel, known for turning first-time guests into repeat bookings."
+        },
+        "experience": [
+          {
+            "company": "Transcorp Hilton Abuja",
+            "position": "Front Desk Supervisor",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Supervise a front-desk team of 6 across morning and evening shifts",
+              "Maintain guest satisfaction scores above 4.6/5 on booking platforms",
+              "Resolve escalated guest complaints within the same shift"
+            ]
+          },
+          {
+            "company": "Nicon Luxury Hotel",
+            "position": "Front Desk Officer",
+            "dates": "2019 — 2021",
+            "responsibilities": [
+              "Managed check-in/check-out for up to 80 guests daily",
+              "Coordinated with housekeeping to reduce room turnaround time"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Federal Polytechnic Bauchi",
+            "degree": "HND Hospitality Management",
+            "course": "Upper Credit",
+            "year": "2015 — 2019"
+          }
+        ],
+        "skills": [
+          "Front Office Operations",
+          "Guest Relations",
+          "Opera PMS",
+          "Complaint Resolution",
+          "Team Supervision"
+        ],
+        "certifications": [
+          "Hospitality Management Certification"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Mr. Chuka Nwosu",
+            "relation": "Front Office Manager, Transcorp Hilton",
+            "phone": "+234 803 447 9912",
+            "email": "c.nwosu@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "construction-trades",
+      "name": "Construction & Trades",
+      "tags": [
+        "Construction",
+        "Trades",
+        "Site",
+        "Building"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Sunday Okonkwo",
+          "title": "Site Supervisor (Building Construction)",
+          "phone": "+234 806 221 7754",
+          "email": "sunday.okonkwo@email.com",
+          "location": "Owerri, Imo State",
+          "linkedin": "",
+          "summary": "Hands-on site supervisor with 8 years overseeing residential and light-commercial builds, focused on safety compliance and keeping projects on schedule."
+        },
+        "experience": [
+          {
+            "company": "Julius Berger Nigeria Plc",
+            "position": "Site Supervisor",
+            "dates": "2018 — Present",
+            "responsibilities": [
+              "Supervise up to 25 site workers across 2 concurrent building projects",
+              "Enforce site safety protocols, maintaining zero lost-time incidents in 3 years",
+              "Liaise with project engineers on material scheduling"
+            ]
+          },
+          {
+            "company": "Setraco Nigeria Ltd",
+            "position": "Foreman",
+            "dates": "2014 — 2018",
+            "responsibilities": [
+              "Coordinated daily labour assignments for masonry and finishing crews",
+              "Tracked material usage against project budget"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Federal Polytechnic Nekede",
+            "degree": "OND Building Technology",
+            "course": "Upper Credit",
+            "year": "2011 — 2013"
+          }
+        ],
+        "skills": [
+          "Site Supervision",
+          "Health & Safety Compliance",
+          "Material Scheduling",
+          "Team Coordination",
+          "Reading Building Plans"
+        ],
+        "certifications": [
+          "NIOSH-Certified Site Safety Officer"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Engr. Peter Anya",
+            "relation": "Project Manager, Julius Berger",
+            "phone": "+234 807 662 1190",
+            "email": "p.anya@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "legal-paralegal",
+      "name": "Legal / Paralegal",
+      "tags": [
+        "Legal",
+        "Paralegal",
+        "Law"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Folasade Adekunle",
+          "title": "Paralegal / Legal Assistant",
+          "phone": "+234 802 556 8871",
+          "email": "folasade.adekunle@email.com",
+          "location": "Ikoyi, Lagos",
+          "linkedin": "linkedin.com/in/folasadeadekunle",
+          "summary": "Organised paralegal with 4 years supporting corporate and litigation teams — drafting court documents, managing case files and coordinating with external counsel."
+        },
+        "experience": [
+          {
+            "company": "Aluko & Oyebode",
+            "position": "Paralegal",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Draft and proofread pleadings, briefs and corporate filings for partner review",
+              "Maintain and index case files for over 30 active matters",
+              "Coordinate scheduling between counsel, clients and the courts"
+            ]
+          },
+          {
+            "company": "Femi Falana & Co.",
+            "position": "Law Intern",
+            "dates": "2020 — 2021",
+            "responsibilities": [
+              "Conducted legal research for ongoing litigation matters",
+              "Assisted with document discovery and bundling"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Lagos",
+            "degree": "LL.B. Law",
+            "course": "Second Class Upper",
+            "year": "2015 — 2019"
+          }
+        ],
+        "skills": [
+          "Legal Drafting",
+          "Legal Research",
+          "Case File Management",
+          "Corporate Filings",
+          "MS Office"
+        ],
+        "certifications": [
+          "Nigerian Law School — Called to Bar"
+        ],
+        "languages": [
+          "English",
+          "Yoruba"
+        ],
+        "references": [
+          {
+            "name": "Barr. Chidinma Eze",
+            "relation": "Senior Associate, Aluko & Oyebode",
+            "phone": "+234 803 118 2274",
+            "email": "c.eze@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "logistics-supply-chain",
+      "name": "Logistics & Supply Chain",
+      "tags": [
+        "Logistics",
+        "Supply Chain",
+        "Warehouse"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Tobenna Nwachukwu",
+          "title": "Logistics Coordinator",
+          "phone": "+234 803 214 7765",
+          "email": "tobenna.nwachukwu@email.com",
+          "location": "Apapa, Lagos",
+          "linkedin": "",
+          "summary": "Logistics coordinator with 5 years managing freight scheduling and warehouse dispatch for an FMCG distributor."
+        },
+        "experience": [
+          {
+            "company": "Dangote Group",
+            "position": "Logistics Coordinator",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Coordinate daily dispatch for a fleet of 30 trucks",
+              "Reduced average delivery turnaround time by 18%"
+            ]
+          },
+          {
+            "company": "GIG Logistics",
+            "position": "Dispatch Officer",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Tracked shipment status across 5 regional hubs",
+              "Resolved delivery discrepancies with customers and drivers"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Port Harcourt",
+            "degree": "B.Sc. Logistics & Transport Management",
+            "course": "Second Class Upper",
+            "year": "2012 — 2016"
+          }
+        ],
+        "skills": [
+          "Freight Scheduling",
+          "Inventory Tracking",
+          "Fleet Coordination",
+          "SAP",
+          "Route Planning"
+        ],
+        "certifications": [
+          "Certified Supply Chain Professional (in view)"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mr. Bassey Etim",
+            "relation": "Logistics Manager, Dangote Group",
+            "phone": "+234 802 556 4432",
+            "email": "b.etim@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "human-resources",
+      "name": "Human Resources",
+      "tags": [
+        "HR",
+        "Human Resources",
+        "Recruitment"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chiamaka Ibe",
+          "title": "HR Officer",
+          "phone": "+234 806 442 1187",
+          "email": "chiamaka.ibe@email.com",
+          "location": "Ikoyi, Lagos",
+          "linkedin": "",
+          "summary": "HR officer with 5 years managing recruitment, onboarding and employee relations for a mid-sized professional services firm."
+        },
+        "experience": [
+          {
+            "company": "KPMG Nigeria",
+            "position": "HR Officer",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Manage end-to-end recruitment for 40+ hires annually",
+              "Coordinate onboarding and orientation for new staff"
+            ]
+          },
+          {
+            "company": "Andersen Tax Nigeria",
+            "position": "HR Assistant",
+            "dates": "2018 — 2021",
+            "responsibilities": [
+              "Maintained employee records and leave tracking",
+              "Supported quarterly performance appraisal cycles"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Ibadan",
+            "degree": "B.Sc. Industrial Relations & Personnel Management",
+            "course": "Second Class Upper",
+            "year": "2013 — 2017"
+          }
+        ],
+        "skills": [
+          "Recruitment",
+          "Onboarding",
+          "Employee Relations",
+          "HRIS Systems",
+          "Performance Management"
+        ],
+        "certifications": [
+          "CIPM (in view)"
+        ],
+        "languages": [
+          "English",
+          "Yoruba"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Ada Obiora",
+            "relation": "HR Manager, KPMG Nigeria",
+            "phone": "+234 803 990 2214",
+            "email": "a.obiora@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "marketing-communications",
+      "name": "Marketing & Communications",
+      "tags": [
+        "Marketing",
+        "Communications",
+        "PR",
+        "Brand"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Zainab Adamu",
+          "title": "Marketing Communications Officer",
+          "phone": "+234 809 776 5521",
+          "email": "zainab.adamu@email.com",
+          "location": "Wuse, Abuja",
+          "linkedin": "",
+          "summary": "Communications officer with 4 years running brand campaigns and media relations for a consumer goods company."
+        },
+        "experience": [
+          {
+            "company": "Nigerian Breweries Plc",
+            "position": "Marketing Communications Officer",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Plan and execute integrated campaigns across social and traditional media",
+              "Manage relationships with 6 media and PR agencies"
+            ]
+          },
+          {
+            "company": "Cool FM Abuja",
+            "position": "Media Relations Assistant",
+            "dates": "2019 — 2021",
+            "responsibilities": [
+              "Drafted press releases and media kits",
+              "Coordinated interviews and event coverage"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Bayero University Kano",
+            "degree": "B.A. Mass Communication",
+            "course": "Second Class Upper",
+            "year": "2014 — 2018"
+          }
+        ],
+        "skills": [
+          "Brand Campaigns",
+          "Media Relations",
+          "Content Strategy",
+          "Social Media Management",
+          "Copywriting"
+        ],
+        "certifications": [
+          "Google Digital Marketing Certificate"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Mr. Ade Bankole",
+            "relation": "Brand Manager, Nigerian Breweries",
+            "phone": "+234 802 331 7789",
+            "email": "a.bankole@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agriculture-agribusiness",
+      "name": "Agriculture & Agribusiness",
+      "tags": [
+        "Agriculture",
+        "Agribusiness",
+        "Farm Management"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Musa Danladi",
+          "title": "Farm Operations Manager",
+          "phone": "+234 803 667 2290",
+          "email": "musa.danladi@email.com",
+          "location": "Kaduna, Nigeria",
+          "linkedin": "",
+          "summary": "Farm operations manager with 6 years overseeing large-scale maize and soybean production, from planting through to market delivery."
+        },
+        "experience": [
+          {
+            "company": "Olam Agri Nigeria",
+            "position": "Farm Operations Manager",
+            "dates": "2019 — Present",
+            "responsibilities": [
+              "Manage 800 hectares of maize and soybean cultivation",
+              "Improved yield per hectare by 25% through improved irrigation scheduling"
+            ]
+          },
+          {
+            "company": "Kaduna State Agricultural Development Project",
+            "position": "Field Extension Officer",
+            "dates": "2015 — 2019",
+            "responsibilities": [
+              "Trained over 200 smallholder farmers on modern planting techniques",
+              "Monitored crop health and pest control across 12 farming communities"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Ahmadu Bello University, Zaria",
+            "degree": "B.Agric. Agronomy",
+            "course": "Second Class Upper",
+            "year": "2010 — 2014"
+          }
+        ],
+        "skills": [
+          "Farm Operations Management",
+          "Irrigation Scheduling",
+          "Crop Monitoring",
+          "Yield Optimisation",
+          "Team Supervision"
+        ],
+        "certifications": [
+          "Good Agricultural Practices (GAP) Certification"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Dr. Aliyu Bello",
+            "relation": "Regional Manager, Olam Agri Nigeria",
+            "phone": "+234 806 221 3345",
+            "email": "a.bello@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "oil-gas",
+      "name": "Oil & Gas (Support Roles)",
+      "tags": [
+        "Oil & Gas",
+        "Energy"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ebiere Amachree",
+          "title": "HSE Officer",
+          "phone": "+234 803 552 1198",
+          "email": "ebiere.amachree@email.com",
+          "location": "Port Harcourt, Rivers State",
+          "linkedin": "",
+          "summary": "HSE officer with 5 years enforcing safety compliance across upstream oil and gas field operations."
+        },
+        "experience": [
+          {
+            "company": "Seplat Energy",
+            "position": "HSE Officer",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Conduct daily safety audits across 2 flow stations",
+              "Maintained zero lost-time injury record for 3 consecutive years"
+            ]
+          },
+          {
+            "company": "Schlumberger Nigeria",
+            "position": "HSE Field Assistant",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Supported permit-to-work processes on rig sites",
+              "Delivered weekly toolbox talks to field crews"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Rivers State University",
+            "degree": "B.Eng. Petroleum Engineering",
+            "course": "Second Class Upper",
+            "year": "2012 — 2016"
+          }
+        ],
+        "skills": [
+          "Safety Audits",
+          "Permit-to-Work Systems",
+          "Incident Investigation",
+          "Risk Assessment",
+          "Toolbox Talks"
+        ],
+        "certifications": [
+          "NEBOSH International General Certificate"
+        ],
+        "languages": [
+          "English",
+          "Ijaw"
+        ],
+        "references": [
+          {
+            "name": "Engr. Tamuno Wiri",
+            "relation": "HSE Manager, Seplat Energy",
+            "phone": "+234 802 774 6612",
+            "email": "t.wiri@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "telecommunications",
+      "name": "Telecommunications",
+      "tags": [
+        "Telecoms",
+        "Network",
+        "GSM"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Sadiq Aliyu",
+          "title": "Network Support Engineer",
+          "phone": "+234 807 118 4432",
+          "email": "sadiq.aliyu@email.com",
+          "location": "Kano, Nigeria",
+          "linkedin": "",
+          "summary": "Network support engineer with 4 years maintaining GSM base station uptime across a regional telecoms network."
+        },
+        "experience": [
+          {
+            "company": "Airtel Nigeria",
+            "position": "Network Support Engineer",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Maintain 99.2% average uptime across 60 base stations",
+              "Lead first-response troubleshooting for network outages"
+            ]
+          },
+          {
+            "company": "Huawei Technologies Nigeria",
+            "position": "Field Support Technician",
+            "dates": "2019 — 2021",
+            "responsibilities": [
+              "Installed and commissioned new base transceiver stations",
+              "Carried out preventive maintenance across 3 states"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Bayero University Kano",
+            "degree": "B.Eng. Electrical & Electronics Engineering",
+            "course": "Second Class Upper",
+            "year": "2014 — 2018"
+          }
+        ],
+        "skills": [
+          "Network Troubleshooting",
+          "Base Station Maintenance",
+          "GSM/LTE Systems",
+          "Preventive Maintenance",
+          "Reporting"
+        ],
+        "certifications": [
+          "Huawei Certified ICT Associate (HCIA)"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Engr. Yakubu Musa",
+            "relation": "Regional Network Manager, Airtel Nigeria",
+            "phone": "+234 803 221 9987",
+            "email": "y.musa@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "manufacturing-production",
+      "name": "Manufacturing & Production",
+      "tags": [
+        "Manufacturing",
+        "Production",
+        "Factory"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chukwuemeka Aneke",
+          "title": "Production Supervisor",
+          "phone": "+234 802 445 7723",
+          "email": "chukwuemeka.aneke@email.com",
+          "location": "Aba, Abia State",
+          "linkedin": "",
+          "summary": "Production supervisor with 6 years running shift operations on a fast-moving consumer goods packaging line."
+        },
+        "experience": [
+          {
+            "company": "Unilever Nigeria Plc",
+            "position": "Production Supervisor",
+            "dates": "2019 — Present",
+            "responsibilities": [
+              "Supervise a 20-person shift on the packaging line",
+              "Reduced downtime by 15% through improved changeover procedures"
+            ]
+          },
+          {
+            "company": "PZ Cussons Nigeria",
+            "position": "Line Operator",
+            "dates": "2015 — 2019",
+            "responsibilities": [
+              "Operated and monitored automated filling machines",
+              "Maintained quality checks every 30 minutes per SOP"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Federal Polytechnic Nekede",
+            "degree": "HND Mechanical Engineering",
+            "course": "Upper Credit",
+            "year": "2011 — 2013"
+          }
+        ],
+        "skills": [
+          "Shift Supervision",
+          "Line Changeover",
+          "Quality Control",
+          "Lean Manufacturing",
+          "SOP Compliance"
+        ],
+        "certifications": [
+          "Six Sigma Yellow Belt"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mr. Obinna Okeke",
+            "relation": "Plant Manager, Unilever Nigeria",
+            "phone": "+234 803 662 1187",
+            "email": "o.okeke@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "real-estate",
+      "name": "Real Estate",
+      "tags": [
+        "Real Estate",
+        "Property",
+        "Estate Management"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ifeoma Chukwu",
+          "title": "Estate Surveyor & Valuer",
+          "phone": "+234 803 221 6674",
+          "email": "ifeoma.chukwu@email.com",
+          "location": "Lekki, Lagos",
+          "linkedin": "",
+          "summary": "Registered estate surveyor with 5 years in property valuation, facility management and client-facing sales across Lagos."
+        },
+        "experience": [
+          {
+            "company": "Northcourt Real Estate",
+            "position": "Estate Surveyor",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Conduct property valuations for over 50 residential and commercial assets annually",
+              "Manage client relationships for a portfolio of 30 rental properties"
+            ]
+          },
+          {
+            "company": "Alpha Mead Facilities",
+            "position": "Facility Management Officer",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Coordinated maintenance schedules across 4 commercial properties",
+              "Managed vendor contracts and service level agreements"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Lagos",
+            "degree": "B.Sc. Estate Management",
+            "course": "Second Class Upper",
+            "year": "2012 — 2016"
+          }
+        ],
+        "skills": [
+          "Property Valuation",
+          "Facility Management",
+          "Client Relationship Management",
+          "Lease Negotiation",
+          "Market Research"
+        ],
+        "certifications": [
+          "ANIVS/RSV Registered Member"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mr. Ayodeji Fashola",
+            "relation": "Managing Partner, Northcourt Real Estate",
+            "phone": "+234 802 990 1123",
+            "email": "a.fashola@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "insurance",
+      "name": "Insurance",
+      "tags": [
+        "Insurance",
+        "Underwriting",
+        "Claims"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Boluwatife Ogunleye",
+          "title": "Insurance Claims Officer",
+          "phone": "+234 806 331 8842",
+          "email": "boluwatife.ogunleye@email.com",
+          "location": "Ikeja, Lagos",
+          "linkedin": "",
+          "summary": "Claims officer with 4 years processing motor and property insurance claims for a leading underwriting firm."
+        },
+        "experience": [
+          {
+            "company": "AXA Mansard Insurance",
+            "position": "Claims Officer",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Process an average of 40 motor and property claims monthly",
+              "Reduced average claim settlement time from 21 to 14 days"
+            ]
+          },
+          {
+            "company": "Leadway Assurance",
+            "position": "Underwriting Assistant",
+            "dates": "2019 — 2021",
+            "responsibilities": [
+              "Assessed policy applications for risk classification",
+              "Prepared quotations for corporate clients"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Lagos",
+            "degree": "B.Sc. Insurance",
+            "course": "Second Class Upper",
+            "year": "2015 — 2019"
+          }
+        ],
+        "skills": [
+          "Claims Processing",
+          "Risk Assessment",
+          "Policy Underwriting",
+          "Customer Communication",
+          "MS Excel"
+        ],
+        "certifications": [
+          "Chartered Insurance Institute of Nigeria (CIIN) — Associate"
+        ],
+        "languages": [
+          "English",
+          "Yoruba"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Yetunde Bakare",
+            "relation": "Claims Manager, AXA Mansard",
+            "phone": "+234 803 774 2298",
+            "email": "y.bakare@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "accounting-audit",
+      "name": "Accounting & Audit",
+      "tags": [
+        "Accounting",
+        "Audit",
+        "Bookkeeping"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Adaora Nwosu",
+          "title": "Audit Associate",
+          "phone": "+234 802 116 7734",
+          "email": "adaora.nwosu@email.com",
+          "location": "Ikoyi, Lagos",
+          "linkedin": "",
+          "summary": "Audit associate with 4 years conducting statutory audits for clients in manufacturing and financial services."
+        },
+        "experience": [
+          {
+            "company": "Deloitte Nigeria",
+            "position": "Audit Associate",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Lead fieldwork for statutory audits of 8 mid-sized clients annually",
+              "Prepare audit working papers in line with ISA standards"
+            ]
+          },
+          {
+            "company": "Ernst & Young Nigeria",
+            "position": "Audit Trainee",
+            "dates": "2019 — 2021",
+            "responsibilities": [
+              "Assisted with inventory counts and substantive testing",
+              "Reconciled client trial balances against general ledgers"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Nigeria, Nsukka",
+            "degree": "B.Sc. Accounting",
+            "course": "Second Class Upper",
+            "year": "2015 — 2019"
+          }
+        ],
+        "skills": [
+          "Statutory Audit",
+          "Financial Reporting",
+          "IFRS",
+          "Excel Modelling",
+          "Audit Documentation"
+        ],
+        "certifications": [
+          "ICAN — Chartered Accountant"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mr. Tunde Are",
+            "relation": "Audit Manager, Deloitte Nigeria",
+            "phone": "+234 803 221 8890",
+            "email": "t.are@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "procurement",
+      "name": "Procurement & Purchasing",
+      "tags": [
+        "Procurement",
+        "Purchasing",
+        "Vendor Management"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chidi Umeh",
+          "title": "Procurement Officer",
+          "phone": "+234 807 552 3391",
+          "email": "chidi.umeh@email.com",
+          "location": "Port Harcourt, Rivers State",
+          "linkedin": "",
+          "summary": "Procurement officer with 5 years sourcing and negotiating supplier contracts for an oil-servicing company."
+        },
+        "experience": [
+          {
+            "company": "Baker Hughes Nigeria",
+            "position": "Procurement Officer",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Manage a supplier base of over 60 vendors",
+              "Negotiated contract terms that saved ₦18m annually"
+            ]
+          },
+          {
+            "company": "Julius Berger Nigeria",
+            "position": "Purchasing Assistant",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Processed purchase orders and tracked delivery timelines",
+              "Maintained supplier performance scorecards"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Port Harcourt",
+            "degree": "B.Sc. Purchasing & Supply",
+            "course": "Second Class Upper",
+            "year": "2012 — 2016"
+          }
+        ],
+        "skills": [
+          "Vendor Negotiation",
+          "Contract Management",
+          "Purchase Order Processing",
+          "Supplier Evaluation",
+          "SAP Ariba"
+        ],
+        "certifications": [
+          "Chartered Institute of Purchasing & Supply Management of Nigeria (CIPSMN)"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mr. Godswill Amadi",
+            "relation": "Procurement Manager, Baker Hughes",
+            "phone": "+234 802 774 1123",
+            "email": "g.amadi@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "security-services",
+      "name": "Security Services",
+      "tags": [
+        "Security",
+        "Safety",
+        "Guard Services"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Emeka Obasi",
+          "title": "Security Supervisor",
+          "phone": "+234 803 221 4471",
+          "email": "emeka.obasi@email.com",
+          "location": "Victoria Island, Lagos",
+          "linkedin": "",
+          "summary": "Security supervisor with 7 years managing access control and patrol operations for corporate facilities."
+        },
+        "experience": [
+          {
+            "company": "Interguard Security Services",
+            "position": "Security Supervisor",
+            "dates": "2018 — Present",
+            "responsibilities": [
+              "Supervise a team of 18 security officers across 3 shifts",
+              "Reduced facility incidents by 40% through improved access control procedures"
+            ]
+          },
+          {
+            "company": "Nigerian Army (Discharged)",
+            "position": "Corporal",
+            "dates": "2010 — 2018",
+            "responsibilities": [
+              "Served in logistics and base security roles",
+              "Trained junior personnel on patrol and surveillance protocols"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "National Open University of Nigeria",
+            "degree": "Diploma in Security Management",
+            "course": "Merit",
+            "year": "2016 — 2018"
+          }
+        ],
+        "skills": [
+          "Access Control",
+          "Patrol Management",
+          "CCTV Monitoring",
+          "Incident Reporting",
+          "Team Supervision"
+        ],
+        "certifications": [
+          "Nigeria Security and Civil Defence Corps (NSCDC) Certified"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mr. Kelechi Iheanacho",
+            "relation": "Operations Manager, Interguard Security",
+            "phone": "+234 802 556 7789",
+            "email": "k.iheanacho@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "driving-transport",
+      "name": "Driving & Transport",
+      "tags": [
+        "Driver",
+        "Transport",
+        "Logistics"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Yakubu Adamu",
+          "title": "Professional Driver",
+          "phone": "+234 806 221 5567",
+          "email": "yakubu.adamu@email.com",
+          "location": "Kano, Nigeria",
+          "linkedin": "",
+          "summary": "Professional driver with 9 years of accident-free driving, experienced with executive transport and long-haul logistics."
+        },
+        "experience": [
+          {
+            "company": "ABC Transport",
+            "position": "Long-Haul Driver",
+            "dates": "2018 — Present",
+            "responsibilities": [
+              "Complete over 200 inter-state trips annually with zero at-fault accidents",
+              "Maintain accurate trip and fuel logs"
+            ]
+          },
+          {
+            "company": "Private Household",
+            "position": "Personal Driver",
+            "dates": "2014 — 2018",
+            "responsibilities": [
+              "Provided daily executive transport in Kano metropolis",
+              "Maintained vehicle servicing schedule"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Government Secondary School, Kano",
+            "degree": "SSCE",
+            "course": "5 Credits including Mathematics and English",
+            "year": "2010"
+          }
+        ],
+        "skills": [
+          "Defensive Driving",
+          "Route Planning",
+          "Vehicle Maintenance Checks",
+          "Time Management",
+          "Customer Courtesy"
+        ],
+        "certifications": [
+          "FRSC Certified Professional Driver's Licence"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Alhaji Sani Bello",
+            "relation": "Fleet Manager, ABC Transport",
+            "phone": "+234 803 774 2298",
+            "email": "s.bello@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fashion-tailoring",
+      "name": "Fashion & Tailoring",
+      "tags": [
+        "Fashion",
+        "Tailoring",
+        "Fashion Design"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Aisha Suleiman",
+          "title": "Fashion Designer / Tailor",
+          "phone": "+234 809 445 1123",
+          "email": "aisha.suleiman@email.com",
+          "location": "Kaduna, Nigeria",
+          "linkedin": "",
+          "summary": "Fashion designer and tailor with 6 years running a made-to-measure atelier specialising in bridal and Ankara wear."
+        },
+        "experience": [
+          {
+            "company": "Aisha Couture (Self-Employed)",
+            "position": "Founder / Lead Designer",
+            "dates": "2019 — Present",
+            "responsibilities": [
+              "Design and produce 15+ bespoke bridal and occasion outfits monthly",
+              "Manage a team of 4 tailors and 2 apprentices"
+            ]
+          },
+          {
+            "company": "Zaria Fashion House",
+            "position": "Junior Tailor",
+            "dates": "2016 — 2019",
+            "responsibilities": [
+              "Cut and sewed made-to-measure garments to client specifications",
+              "Assisted with pattern drafting for new collections"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Kaduna Polytechnic",
+            "degree": "OND Fashion Design & Clothing Technology",
+            "course": "Upper Credit",
+            "year": "2014 — 2016"
+          }
+        ],
+        "skills": [
+          "Pattern Drafting",
+          "Bridal Wear Design",
+          "Fabric Sourcing",
+          "Team Supervision",
+          "Client Consultation"
+        ],
+        "certifications": [
+          "Fashion Design Certification, Kaduna Polytechnic"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Hadiza Ibrahim",
+            "relation": "Owner, Zaria Fashion House",
+            "phone": "+234 803 221 4471",
+            "email": "h.ibrahim@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "beauty-cosmetology",
+      "name": "Beauty & Cosmetology",
+      "tags": [
+        "Beauty",
+        "Makeup",
+        "Cosmetology",
+        "Salon"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Blessing Nnamdi",
+          "title": "Makeup Artist & Salon Manager",
+          "phone": "+234 802 665 1187",
+          "email": "blessing.nnamdi@email.com",
+          "location": "Surulere, Lagos",
+          "linkedin": "",
+          "summary": "Makeup artist and salon manager with 5 years serving bridal and editorial clients across Lagos."
+        },
+        "experience": [
+          {
+            "company": "Blessing Beauty Studio (Self-Employed)",
+            "position": "Founder / Lead Makeup Artist",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Serve over 100 bridal clients annually with a 4-person team",
+              "Manage bookings, inventory and client consultations"
+            ]
+          },
+          {
+            "company": "Zaron Cosmetics",
+            "position": "Makeup Trainer",
+            "dates": "2018 — 2020",
+            "responsibilities": [
+              "Trained over 50 aspiring makeup artists on technique and product use",
+              "Represented the brand at trade exhibitions"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Lagos State Polytechnic",
+            "degree": "OND Cosmetology",
+            "course": "Upper Credit",
+            "year": "2015 — 2017"
+          }
+        ],
+        "skills": [
+          "Bridal Makeup",
+          "Editorial Makeup",
+          "Client Consultation",
+          "Team Management",
+          "Inventory Management"
+        ],
+        "certifications": [
+          "Certified Professional Makeup Artist (CPMA)"
+        ],
+        "languages": [
+          "English",
+          "Yoruba"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Toke Adeyemi",
+            "relation": "Brand Manager, Zaron Cosmetics",
+            "phone": "+234 803 445 2298",
+            "email": "t.adeyemi@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "culinary-chef",
+      "name": "Culinary Arts / Chef",
+      "tags": [
+        "Chef",
+        "Culinary",
+        "Kitchen",
+        "Catering"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ikenna Obi",
+          "title": "Sous Chef",
+          "phone": "+234 803 221 6690",
+          "email": "ikenna.obi@email.com",
+          "location": "Ikoyi, Lagos",
+          "linkedin": "",
+          "summary": "Sous chef with 6 years of kitchen experience across fine-dining and large-scale event catering."
+        },
+        "experience": [
+          {
+            "company": "Radisson Blu Lagos Ikeja",
+            "position": "Sous Chef",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Manage a kitchen brigade of 12 across breakfast, lunch and dinner service",
+              "Redesigned the seasonal menu, improving food cost margins by 8%"
+            ]
+          },
+          {
+            "company": "Yellow Chilli Restaurant",
+            "position": "Line Cook",
+            "dates": "2016 — 2020",
+            "responsibilities": [
+              "Prepared Nigerian and continental dishes to standard recipes",
+              "Maintained HACCP food safety compliance"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Lagos City Polytechnic",
+            "degree": "National Diploma in Hotel & Catering Management",
+            "course": "Upper Credit",
+            "year": "2013 — 2015"
+          }
+        ],
+        "skills": [
+          "Menu Development",
+          "Kitchen Management",
+          "Food Costing",
+          "HACCP Compliance",
+          "Team Training"
+        ],
+        "certifications": [
+          "HACCP Food Safety Certification"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Chef Uche Nnamdi",
+            "relation": "Executive Chef, Radisson Blu Lagos",
+            "phone": "+234 802 774 3320",
+            "email": "u.nnamdi@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aviation",
+      "name": "Aviation",
+      "tags": [
+        "Aviation",
+        "Airline",
+        "Airport Operations"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ifeanyi Chukwuma",
+          "title": "Airport Ground Operations Officer",
+          "phone": "+234 806 774 2298",
+          "email": "ifeanyi.chukwuma@email.com",
+          "location": "Ikeja, Lagos",
+          "linkedin": "",
+          "summary": "Ground operations officer with 5 years coordinating aircraft turnaround and passenger services at a major domestic airport."
+        },
+        "experience": [
+          {
+            "company": "Air Peace",
+            "position": "Ground Operations Officer",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Coordinate aircraft turnaround for up to 12 flights daily",
+              "Liaise with catering, fuelling and baggage teams to maintain on-time departure"
+            ]
+          },
+          {
+            "company": "Murtala Muhammed Airport (FAAN)",
+            "position": "Passenger Services Assistant",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Managed check-in and boarding gate operations",
+              "Assisted passengers with special needs and irregular operations"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Nigerian College of Aviation Technology, Zaria",
+            "degree": "Diploma in Airport Operations",
+            "course": "Merit",
+            "year": "2015 — 2017"
+          }
+        ],
+        "skills": [
+          "Aircraft Turnaround Coordination",
+          "Passenger Services",
+          "Ramp Safety",
+          "Irregular Operations Handling",
+          "Communication"
+        ],
+        "certifications": [
+          "IATA Airport Ramp Services Certificate"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Capt. Nnamdi Eze",
+            "relation": "Station Manager, Air Peace",
+            "phone": "+234 803 221 7789",
+            "email": "n.eze@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maritime-shipping",
+      "name": "Maritime & Shipping",
+      "tags": [
+        "Maritime",
+        "Shipping",
+        "Ports"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Preye Ockiya",
+          "title": "Shipping Documentation Officer",
+          "phone": "+234 803 662 1187",
+          "email": "preye.ockiya@email.com",
+          "location": "Apapa, Lagos",
+          "linkedin": "",
+          "summary": "Shipping documentation officer with 4 years processing import/export documentation for a freight forwarding firm at Apapa Port."
+        },
+        "experience": [
+          {
+            "company": "Maersk Nigeria",
+            "position": "Shipping Documentation Officer",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Process bills of lading and customs documentation for 50+ containers weekly",
+              "Liaise with NPA and NCS on clearance procedures"
+            ]
+          },
+          {
+            "company": "SIFAX Group",
+            "position": "Documentation Assistant",
+            "dates": "2019 — 2021",
+            "responsibilities": [
+              "Prepared export documentation for agricultural commodities",
+              "Tracked container demurrage and detention charges"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Rivers State University",
+            "degree": "B.Sc. Maritime Transport & Business Studies",
+            "course": "Second Class Upper",
+            "year": "2014 — 2018"
+          }
+        ],
+        "skills": [
+          "Shipping Documentation",
+          "Customs Clearance",
+          "Bill of Lading Processing",
+          "NPA/NCS Liaison",
+          "Container Tracking"
+        ],
+        "certifications": [
+          "Nigerian Institute of Shipping — Certificate"
+        ],
+        "languages": [
+          "English",
+          "Ijaw"
+        ],
+        "references": [
+          {
+            "name": "Mr. Ebi Sam",
+            "relation": "Operations Manager, Maersk Nigeria",
+            "phone": "+234 802 556 8890",
+            "email": "e.sam@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mining-solid-minerals",
+      "name": "Mining & Solid Minerals",
+      "tags": [
+        "Mining",
+        "Solid Minerals",
+        "Geology"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Tunde Bamidele",
+          "title": "Mine Site Geologist",
+          "phone": "+234 807 221 4471",
+          "email": "tunde.bamidele@email.com",
+          "location": "Jos, Plateau State",
+          "linkedin": "",
+          "summary": "Site geologist with 5 years mapping ore deposits and supervising sampling programmes for a solid minerals mining company."
+        },
+        "experience": [
+          {
+            "company": "Dangote Cement (Limestone Operations)",
+            "position": "Site Geologist",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Supervise geological sampling and ore body mapping across a 200-hectare quarry",
+              "Prepared monthly reserve estimation reports"
+            ]
+          },
+          {
+            "company": "Plateau State Mineral Resources Development",
+            "position": "Field Geology Assistant",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Conducted field mapping for tin and columbite deposits",
+              "Assisted with community relations for mining sites"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Jos",
+            "degree": "B.Sc. Geology",
+            "course": "Second Class Upper",
+            "year": "2012 — 2016"
+          }
+        ],
+        "skills": [
+          "Ore Body Mapping",
+          "Reserve Estimation",
+          "Field Sampling",
+          "GIS Software",
+          "Report Writing"
+        ],
+        "certifications": [
+          "Nigerian Mining and Geosciences Society — Member"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Dr. Solomon Dung",
+            "relation": "Chief Geologist, Dangote Cement",
+            "phone": "+234 803 774 2298",
+            "email": "s.dung@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "tags": [
+        "Pharmacy",
+        "Pharmacist",
+        "PCN"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chiamaka Uzo",
+          "title": "Community Pharmacist",
+          "phone": "+234 802 774 1123",
+          "email": "chiamaka.uzo@email.com",
+          "location": "Enugu, Nigeria",
+          "linkedin": "",
+          "summary": "PCN-licensed community pharmacist with 4 years dispensing medication and providing patient counselling in a busy retail pharmacy."
+        },
+        "experience": [
+          {
+            "company": "HealthPlus Pharmacy",
+            "position": "Pharmacist",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Dispense an average of 120 prescriptions daily with zero dispensing errors",
+              "Counsel patients on medication use and drug interactions"
+            ]
+          },
+          {
+            "company": "University of Nigeria Teaching Hospital",
+            "position": "Intern Pharmacist",
+            "dates": "2020 — 2021",
+            "responsibilities": [
+              "Rotated through inpatient and outpatient pharmacy units",
+              "Assisted with hospital formulary management"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Nigeria, Nsukka",
+            "degree": "B.Pharm. Pharmacy",
+            "course": "Second Class Upper",
+            "year": "2014 — 2019"
+          }
+        ],
+        "skills": [
+          "Medication Dispensing",
+          "Patient Counselling",
+          "Drug Interaction Screening",
+          "Inventory Management",
+          "Pharmacovigilance"
+        ],
+        "certifications": [
+          "PCN Licensed Pharmacist"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Pharm. Ngozi Ude",
+            "relation": "Superintendent Pharmacist, HealthPlus",
+            "phone": "+234 803 221 6674",
+            "email": "n.ude@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "tags": [
+        "Architecture",
+        "Architect",
+        "Design"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Segun Alabi",
+          "title": "Architect",
+          "phone": "+234 803 445 6690",
+          "email": "segun.alabi@email.com",
+          "location": "Ikeja, Lagos",
+          "linkedin": "",
+          "summary": "Registered architect with 5 years designing residential and mixed-use developments across Lagos."
+        },
+        "experience": [
+          {
+            "company": "James Cubitt Architects",
+            "position": "Architect",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Lead design development for 6 residential and mixed-use projects",
+              "Coordinate with structural and MEP engineers through construction documentation"
+            ]
+          },
+          {
+            "company": "Design Union",
+            "position": "Junior Architect",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Produced construction drawings and 3D visualisations",
+              "Assisted with site supervision during construction"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Obafemi Awolowo University",
+            "degree": "B.Sc. / M.Sc. Architecture",
+            "course": "Second Class Upper",
+            "year": "2010 — 2016"
+          }
+        ],
+        "skills": [
+          "AutoCAD",
+          "Revit",
+          "Construction Documentation",
+          "Site Supervision",
+          "3D Visualisation"
+        ],
+        "certifications": [
+          "Architects Registration Council of Nigeria (ARCON) Registered"
+        ],
+        "languages": [
+          "English",
+          "Yoruba"
+        ],
+        "references": [
+          {
+            "name": "Arc. Bimbo Ogundele",
+            "relation": "Principal Partner, James Cubitt Architects",
+            "phone": "+234 802 990 4432",
+            "email": "b.ogundele@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "it-support",
+      "name": "IT Support",
+      "tags": [
+        "IT Support",
+        "Helpdesk",
+        "Technical Support"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Bright Etim",
+          "title": "IT Support Officer",
+          "phone": "+234 806 221 7789",
+          "email": "bright.etim@email.com",
+          "location": "Uyo, Akwa Ibom",
+          "linkedin": "",
+          "summary": "IT support officer with 4 years resolving hardware, software and network issues for a 200-staff organisation."
+        },
+        "experience": [
+          {
+            "company": "Access Bank Plc",
+            "position": "IT Support Officer",
+            "dates": "2021 — Present",
+            "responsibilities": [
+              "Resolve an average of 30 helpdesk tickets daily across hardware, software and network issues",
+              "Maintain and configure staff workstations and printers"
+            ]
+          },
+          {
+            "company": "MTN Nigeria (NYSC)",
+            "position": "IT Support Intern",
+            "dates": "2020 — 2021",
+            "responsibilities": [
+              "Assisted with network cabling and Wi-Fi troubleshooting",
+              "Set up new starter laptops and email accounts"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Uyo",
+            "degree": "B.Sc. Computer Science",
+            "course": "Second Class Upper",
+            "year": "2016 — 2020"
+          }
+        ],
+        "skills": [
+          "Helpdesk Support",
+          "Windows & Network Troubleshooting",
+          "Active Directory",
+          "Hardware Maintenance",
+          "Ticketing Systems"
+        ],
+        "certifications": [
+          "CompTIA A+"
+        ],
+        "languages": [
+          "English",
+          "Ibibio"
+        ],
+        "references": [
+          {
+            "name": "Mr. Godwin Etuk",
+            "relation": "IT Manager, Access Bank Plc",
+            "phone": "+234 803 774 1123",
+            "email": "g.etuk@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "data-analysis",
+      "name": "Data Analysis",
+      "tags": [
+        "Data Analyst",
+        "Analytics",
+        "BI"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Kelechi Anyanwu",
+          "title": "Data Analyst",
+          "phone": "+234 803 221 8890",
+          "email": "kelechi.anyanwu@email.com",
+          "location": "Yaba, Lagos",
+          "linkedin": "",
+          "summary": "Data analyst with 3 years building dashboards and reports that guide product decisions for a fintech company."
+        },
+        "experience": [
+          {
+            "company": "Kuda Bank",
+            "position": "Data Analyst",
+            "dates": "2022 — Present",
+            "responsibilities": [
+              "Build and maintain 10+ dashboards tracking product and growth metrics",
+              "Partner with product teams to design A/B tests"
+            ]
+          },
+          {
+            "company": "Interswitch",
+            "position": "Junior Data Analyst",
+            "dates": "2020 — 2022",
+            "responsibilities": [
+              "Cleaned and modelled transaction data for monthly reporting",
+              "Automated recurring reports, saving the team 6 hours weekly"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Covenant University",
+            "degree": "B.Sc. Computer Science",
+            "course": "Second Class Upper",
+            "year": "2016 — 2020"
+          }
+        ],
+        "skills": [
+          "SQL",
+          "Python",
+          "Power BI",
+          "Data Modelling",
+          "A/B Testing"
+        ],
+        "certifications": [
+          "Google Data Analytics Professional Certificate"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Ms. Funmi Osei",
+            "relation": "Head of Analytics, Kuda Bank",
+            "phone": "+234 802 556 4432",
+            "email": "f.osei@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management",
+      "tags": [
+        "Project Manager",
+        "PMP",
+        "Coordination"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Uduak Bassey",
+          "title": "Project Manager",
+          "phone": "+234 807 774 3320",
+          "email": "uduak.bassey@email.com",
+          "location": "Abuja, FCT",
+          "linkedin": "",
+          "summary": "Project manager with 6 years delivering infrastructure and IT projects on time and within budget for development-sector clients."
+        },
+        "experience": [
+          {
+            "company": "Palladium International",
+            "position": "Project Manager",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Manage a portfolio of 4 concurrent donor-funded projects worth over $2m combined",
+              "Lead cross-functional teams of up to 15 staff and consultants"
+            ]
+          },
+          {
+            "company": "Accenture Nigeria",
+            "position": "Project Coordinator",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Tracked project milestones and risk registers across 3 workstreams",
+              "Prepared client status reports and steering committee decks"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Nigeria, Nsukka",
+            "degree": "B.Sc. Project Management Technology",
+            "course": "Second Class Upper",
+            "year": "2012 — 2016"
+          }
+        ],
+        "skills": [
+          "Project Planning",
+          "Risk Management",
+          "Stakeholder Management",
+          "MS Project",
+          "Budget Tracking"
+        ],
+        "certifications": [
+          "PMP — Project Management Professional"
+        ],
+        "languages": [
+          "English",
+          "Efik"
+        ],
+        "references": [
+          {
+            "name": "Mr. Chuka Ibe",
+            "relation": "Country Director, Palladium International",
+            "phone": "+234 803 221 7789",
+            "email": "c.ibe@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "social-work",
+      "name": "Social Work",
+      "tags": [
+        "Social Work",
+        "Community Development"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Grace Ityavyar",
+          "title": "Social Welfare Officer",
+          "phone": "+234 806 445 2298",
+          "email": "grace.ityavyar@email.com",
+          "location": "Jos, Plateau State",
+          "linkedin": "",
+          "summary": "Social welfare officer with 5 years supporting vulnerable children and families through case management and community outreach."
+        },
+        "experience": [
+          {
+            "company": "Plateau State Ministry of Women Affairs & Social Development",
+            "position": "Social Welfare Officer",
+            "dates": "2019 — Present",
+            "responsibilities": [
+              "Manage a caseload of 40+ vulnerable children and families",
+              "Coordinate with 6 community-based organisations on referral pathways"
+            ]
+          },
+          {
+            "company": "SOS Children's Villages Nigeria",
+            "position": "Case Worker",
+            "dates": "2016 — 2019",
+            "responsibilities": [
+              "Conducted home visits and needs assessments",
+              "Facilitated support groups for foster families"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Jos",
+            "degree": "B.Sc. Social Work",
+            "course": "Second Class Upper",
+            "year": "2011 — 2015"
+          }
+        ],
+        "skills": [
+          "Case Management",
+          "Needs Assessment",
+          "Community Outreach",
+          "Child Protection",
+          "Report Writing"
+        ],
+        "certifications": [
+          "Registered Social Worker (Nigeria)"
+        ],
+        "languages": [
+          "English",
+          "Tiv"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Comfort Dung",
+            "relation": "Programme Manager, SOS Children's Villages",
+            "phone": "+234 802 774 2298",
+            "email": "c.dung@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngo-development",
+      "name": "NGO / Development Sector",
+      "tags": [
+        "NGO",
+        "Development",
+        "Programme Officer"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Aisha Mohammed",
+          "title": "Programme Officer",
+          "phone": "+234 803 662 1187",
+          "email": "aisha.mohammed@email.com",
+          "location": "Maiduguri, Borno State",
+          "linkedin": "",
+          "summary": "Programme officer with 5 years implementing humanitarian and livelihood programmes across North-East Nigeria."
+        },
+        "experience": [
+          {
+            "company": "Mercy Corps Nigeria",
+            "position": "Programme Officer",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Manage implementation of a livelihoods programme reaching 3,000 households",
+              "Coordinate with 5 field teams and local government partners"
+            ]
+          },
+          {
+            "company": "International Rescue Committee",
+            "position": "Field Assistant",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Supported distribution of emergency relief items",
+              "Conducted post-distribution monitoring surveys"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Maiduguri",
+            "degree": "B.Sc. Sociology",
+            "course": "Second Class Upper",
+            "year": "2012 — 2016"
+          }
+        ],
+        "skills": [
+          "Programme Implementation",
+          "Monitoring & Evaluation",
+          "Stakeholder Coordination",
+          "Report Writing",
+          "Community Mobilisation"
+        ],
+        "certifications": [
+          "Project Management for Development Professionals (PMD Pro)"
+        ],
+        "languages": [
+          "English",
+          "Hausa",
+          "Kanuri"
+        ],
+        "references": [
+          {
+            "name": "Mr. James Okoro",
+            "relation": "Deputy Country Director, Mercy Corps",
+            "phone": "+234 802 556 7789",
+            "email": "j.okoro@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "research-academia",
+      "name": "Research & Academia",
+      "tags": [
+        "Research",
+        "Academia",
+        "Lecturer"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Dr. Chinwe Eze",
+          "title": "Research Fellow",
+          "phone": "+234 803 221 4471",
+          "email": "dr..eze@email.com",
+          "location": "Nsukka, Enugu State",
+          "linkedin": "",
+          "summary": "Research fellow with 6 years conducting applied agricultural research and supervising postgraduate students."
+        },
+        "experience": [
+          {
+            "company": "National Root Crops Research Institute",
+            "position": "Research Fellow",
+            "dates": "2019 — Present",
+            "responsibilities": [
+              "Lead a research team investigating cassava yield improvement",
+              "Published 9 peer-reviewed papers in the last 5 years"
+            ]
+          },
+          {
+            "company": "University of Nigeria, Nsukka",
+            "position": "Graduate Assistant",
+            "dates": "2015 — 2019",
+            "responsibilities": [
+              "Taught undergraduate courses in crop science",
+              "Supervised final-year student research projects"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "University of Nigeria, Nsukka",
+            "degree": "Ph.D. Crop Science",
+            "course": "-",
+            "year": "2015 — 2019"
+          }
+        ],
+        "skills": [
+          "Research Design",
+          "Statistical Analysis (R/SPSS)",
+          "Grant Writing",
+          "Academic Publishing",
+          "Student Supervision"
+        ],
+        "certifications": [
+          "Research Ethics Certification"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Prof. Ike Anyanwu",
+            "relation": "Director, National Root Crops Research Institute",
+            "phone": "+234 802 774 1123",
+            "email": "i.anyanwu@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "warehouse-inventory",
+      "name": "Warehouse & Inventory",
+      "tags": [
+        "Warehouse",
+        "Inventory",
+        "Stock Control"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chibueze Okoro",
+          "title": "Warehouse Supervisor",
+          "phone": "+234 802 556 4432",
+          "email": "chibueze.okoro@email.com",
+          "location": "Ogba, Lagos",
+          "linkedin": "",
+          "summary": "Warehouse supervisor with 5 years managing inventory accuracy and dispatch operations for a consumer goods distributor."
+        },
+        "experience": [
+          {
+            "company": "Nestlé Nigeria Plc",
+            "position": "Warehouse Supervisor",
+            "dates": "2020 — Present",
+            "responsibilities": [
+              "Supervise a 12-person warehouse team across receiving, storage and dispatch",
+              "Improved inventory accuracy from 91% to 99% through cycle counting"
+            ]
+          },
+          {
+            "company": "TSL Logistics",
+            "position": "Inventory Officer",
+            "dates": "2017 — 2020",
+            "responsibilities": [
+              "Maintained stock records across 3 warehouse locations",
+              "Coordinated monthly stock reconciliation with finance"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Yaba College of Technology",
+            "degree": "HND Purchasing & Supply",
+            "course": "Upper Credit",
+            "year": "2013 — 2015"
+          }
+        ],
+        "skills": [
+          "Inventory Management",
+          "Warehouse Operations",
+          "Cycle Counting",
+          "WMS Software",
+          "Team Supervision"
+        ],
+        "certifications": [
+          "Certified Inventory Management Professional (in view)"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Bisi Owolabi",
+            "relation": "Distribution Manager, Nestlé Nigeria",
+            "phone": "+234 803 221 7789",
+            "email": "b.owolabi@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "electrical-technician",
+      "name": "Electrical Technician",
+      "tags": [
+        "Electrician",
+        "Electrical",
+        "Technician"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chijioke Mbah",
+          "title": "Electrical Technician",
+          "phone": "+234 803 774 2298",
+          "email": "chijioke.mbah@email.com",
+          "location": "Onitsha, Anambra State",
+          "linkedin": "",
+          "summary": "Electrical technician with 7 years installing and maintaining electrical systems for residential and commercial buildings."
+        },
+        "experience": [
+          {
+            "company": "Bemil Nigeria Ltd",
+            "position": "Senior Electrical Technician",
+            "dates": "2018 — Present",
+            "responsibilities": [
+              "Lead installation of electrical systems for 15+ commercial projects",
+              "Train and supervise 3 junior technicians"
+            ]
+          },
+          {
+            "company": "Independent Contractor",
+            "position": "Electrician",
+            "dates": "2013 — 2018",
+            "responsibilities": [
+              "Installed wiring, distribution boards and lighting for residential clients",
+              "Diagnosed and repaired electrical faults"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Anambra State Polytechnic",
+            "degree": "OND Electrical/Electronics Engineering",
+            "course": "Upper Credit",
+            "year": "2010 — 2012"
+          }
+        ],
+        "skills": [
+          "Electrical Installation",
+          "Fault Diagnosis",
+          "Wiring & Distribution Boards",
+          "Safety Compliance",
+          "Team Supervision"
+        ],
+        "certifications": [
+          "Registered Electrician, Nigerian Society of Engineers"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mr. Kingsley Nnaji",
+            "relation": "Site Manager, Bemil Nigeria",
+            "phone": "+234 802 556 3345",
+            "email": "k.nnaji@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "plumbing",
+      "name": "Plumbing",
+      "tags": [
+        "Plumber",
+        "Plumbing",
+        "Pipefitting"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Godwin Etim",
+          "title": "Plumbing Technician",
+          "phone": "+234 806 221 5567",
+          "email": "godwin.etim@email.com",
+          "location": "Warri, Delta State",
+          "linkedin": "",
+          "summary": "Plumbing technician with 8 years installing and maintaining water supply and drainage systems for residential and commercial buildings."
+        },
+        "experience": [
+          {
+            "company": "Niger Delta Construction Ltd",
+            "position": "Plumbing Technician",
+            "dates": "2017 — Present",
+            "responsibilities": [
+              "Install and maintain plumbing systems for 10+ building projects annually",
+              "Diagnose and repair leaks, blockages and pump failures"
+            ]
+          },
+          {
+            "company": "Independent Contractor",
+            "position": "Plumber",
+            "dates": "2011 — 2017",
+            "responsibilities": [
+              "Fitted water supply and drainage pipework for residential clients",
+              "Installed boreholes and overhead tank systems"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Delta State Polytechnic, Ogwashi-Uku",
+            "degree": "OND Mechanical Engineering",
+            "course": "Upper Credit",
+            "year": "2008 — 2010"
+          }
+        ],
+        "skills": [
+          "Pipe Installation",
+          "Leak Diagnosis",
+          "Borehole Systems",
+          "Drainage Systems",
+          "Safety Compliance"
+        ],
+        "certifications": [
+          "Nigerian Institute of Plumbing Engineers — Registered"
+        ],
+        "languages": [
+          "English",
+          "Urhobo"
+        ],
+        "references": [
+          {
+            "name": "Mr. Efe Okoro",
+            "relation": "Project Manager, Niger Delta Construction",
+            "phone": "+234 803 774 1123",
+            "email": "e.okoro@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "automotive-mechanic",
+      "name": "Automotive Mechanic",
+      "tags": [
+        "Mechanic",
+        "Automotive",
+        "Vehicle Repair"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Suleiman Bello",
+          "title": "Automotive Technician",
+          "phone": "+234 802 774 3320",
+          "email": "suleiman.bello@email.com",
+          "location": "Kaduna, Nigeria",
+          "linkedin": "",
+          "summary": "Automotive technician with 9 years diagnosing and repairing petrol and diesel engines for a commercial fleet operator."
+        },
+        "experience": [
+          {
+            "company": "Dangote Group (Fleet Maintenance)",
+            "position": "Senior Automotive Technician",
+            "dates": "2017 — Present",
+            "responsibilities": [
+              "Maintain a fleet of 45 trucks, reducing breakdown incidents by 30%",
+              "Train 4 junior technicians on diagnostic procedures"
+            ]
+          },
+          {
+            "company": "Independent Garage",
+            "position": "Mechanic",
+            "dates": "2011 — 2017",
+            "responsibilities": [
+              "Diagnosed and repaired engine, transmission and brake faults",
+              "Serviced vehicles for private and commercial clients"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Kaduna Polytechnic",
+            "degree": "OND Automotive Engineering",
+            "course": "Upper Credit",
+            "year": "2008 — 2010"
+          }
+        ],
+        "skills": [
+          "Engine Diagnostics",
+          "Preventive Maintenance",
+          "Fleet Management",
+          "Brake & Transmission Repair",
+          "Team Training"
+        ],
+        "certifications": [
+          "Nigerian Automotive Technicians Association — Registered"
+        ],
+        "languages": [
+          "English",
+          "Hausa"
+        ],
+        "references": [
+          {
+            "name": "Mr. Aminu Garba",
+            "relation": "Fleet Manager, Dangote Group",
+            "phone": "+234 803 221 6674",
+            "email": "a.garba@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photography-creative",
+      "name": "Photography & Creative Arts",
+      "tags": [
+        "Photography",
+        "Creative",
+        "Videography"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Tobi Alademomi",
+          "title": "Photographer / Videographer",
+          "phone": "+234 803 221 8890",
+          "email": "tobi.alademomi@email.com",
+          "location": "Yaba, Lagos",
+          "linkedin": "",
+          "summary": "Freelance photographer and videographer with 5 years shooting weddings, corporate events and brand content across Lagos."
+        },
+        "experience": [
+          {
+            "company": "Tobi Alademomi Studios (Self-Employed)",
+            "position": "Lead Photographer",
+            "dates": "2019 — Present",
+            "responsibilities": [
+              "Shoot and edit content for 40+ weddings and corporate events annually",
+              "Manage a team of 2 assistant photographers and 1 video editor"
+            ]
+          },
+          {
+            "company": "Bella Naija Weddings",
+            "position": "Freelance Contributor",
+            "dates": "2017 — 2019",
+            "responsibilities": [
+              "Covered featured weddings for online publication",
+              "Delivered edited galleries within 48-hour turnaround"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Yaba College of Technology",
+            "degree": "HND Mass Communication",
+            "course": "Upper Credit",
+            "year": "2013 — 2015"
+          }
+        ],
+        "skills": [
+          "Photography",
+          "Videography",
+          "Adobe Lightroom & Premiere Pro",
+          "Client Management",
+          "Event Coverage"
+        ],
+        "certifications": [
+          "Certificate in Digital Photography"
+        ],
+        "languages": [
+          "English",
+          "Yoruba"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Funmi Adesanya",
+            "relation": "Editor, Bella Naija Weddings",
+            "phone": "+234 802 556 7789",
+            "email": "f.adesanya@example.com"
+          }
+        ]
+      }
+    },
+    {
+      "id": "event-planning",
+      "name": "Event Planning",
+      "tags": [
+        "Event Planner",
+        "Events",
+        "Wedding Planning"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chidinma Okafor",
+          "title": "Event Planner",
+          "phone": "+234 806 774 2298",
+          "email": "chidinma.okafor@email.com",
+          "location": "Lekki, Lagos",
+          "linkedin": "",
+          "summary": "Event planner with 5 years coordinating weddings and corporate events for clients across Lagos and Abuja."
+        },
+        "experience": [
+          {
+            "company": "Chidinma Events (Self-Employed)",
+            "position": "Lead Event Planner",
+            "dates": "2019 — Present",
+            "responsibilities": [
+              "Plan and execute 25+ weddings and corporate events annually",
+              "Manage vendor relationships across catering, décor and logistics"
+            ]
+          },
+          {
+            "company": "Elizabeth Events",
+            "position": "Junior Event Coordinator",
+            "dates": "2017 — 2019",
+            "responsibilities": [
+              "Assisted with venue sourcing and guest list management",
+              "Coordinated on-the-day logistics for up to 500-guest events"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "institution": "Pan-Atlantic University",
+            "degree": "B.Sc. Business Administration",
+            "course": "Second Class Upper",
+            "year": "2013 — 2017"
+          }
+        ],
+        "skills": [
+          "Event Coordination",
+          "Vendor Management",
+          "Budget Planning",
+          "Client Relations",
+          "On-Site Logistics"
+        ],
+        "certifications": [
+          "Certified Event Planner (in view)"
+        ],
+        "languages": [
+          "English",
+          "Igbo"
+        ],
+        "references": [
+          {
+            "name": "Mrs. Elizabeth Okon",
+            "relation": "Founder, Elizabeth Events",
+            "phone": "+234 803 221 4471",
+            "email": "e.okon@example.com"
+          }
+        ]
+      }
+    }
+  ],
+  "cover-letter": [
+    {
+      "id": "general",
+      "name": "General / Any Role",
+      "tags": [
+        "General",
+        "Any Role"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ngozi Eze",
+          "phone": "+234 807 654 3210",
+          "email": "ngozi.eze@email.com",
+          "location": "Victoria Island, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Brightpath Consulting Ltd",
+          "companyAddress": "14 Adeola Odeku Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Administrative Officer role advertised on your careers page. With over three years of experience coordinating office operations for a fast-growing logistics firm, I am confident I can bring the same organisation and reliability to your team.",
+          "In my current role, I manage scheduling for a 15-person team, oversee vendor relationships and have reduced procurement turnaround time by 20% through a simple approval workflow I introduced.",
+          "I would welcome the opportunity to discuss how my background fits your needs. Thank you for considering my application."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "software-engineer",
+      "name": "Software Engineer",
+      "tags": [
+        "Software Engineer",
+        "Developer",
+        "Tech",
+        "ICT",
+        "Programmer"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chinedu Okafor",
+          "phone": "+234 803 555 0192",
+          "email": "chinedu.okafor@email.com",
+          "location": "Lekki, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Flutterwave",
+          "companyAddress": "Plot 8 Providence Street, Lekki Phase 1, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Software Engineer role advertised on your careers page. I have 4 years of experience building fast, accessible web products, most recently leading a dashboard rebuild that cut page load time by 38%.",
+          "I enjoy owning a feature end-to-end and have introduced shared component libraries that other teams have gone on to adopt.",
+          "I would welcome the chance to bring this experience to your engineering team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "graduate-nysc",
+      "name": "Graduate / NYSC",
+      "tags": [
+        "Graduate",
+        "NYSC",
+        "Student",
+        "Entry Level",
+        "Corps Member"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Amina Bello",
+          "phone": "+234 810 222 4471",
+          "email": "amina.bello@email.com",
+          "location": "Kaduna, Nigeria"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "First City Monument Bank",
+          "companyAddress": "Primrose Tower, 17A Tinubu Street, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Graduate Trainee position advertised on your careers page. I hold a Second Class Upper degree in Accounting from Ahmadu Bello University and am currently completing my NYSC year with the Kaduna State Ministry of Finance.",
+          "During an earlier internship at your bank, I processed customer account documentation and shadowed the reconciliation team, which gave me a solid grounding in retail banking operations.",
+          "I would welcome the opportunity to bring that foundation, and my eagerness to learn, to your graduate programme."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "banking-finance",
+      "name": "Banking & Finance",
+      "tags": [
+        "Banking",
+        "Finance",
+        "Accountant",
+        "Admin"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Osilalu Ademuyiwa Taiwo",
+          "phone": "+234 813 808 1696",
+          "email": "osilalu.taiwo@email.com",
+          "location": "Abeokuta, Ogun State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Zenith Bank Plc",
+          "companyAddress": "Plot 84, Ajose Adeogun Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Operations Officer position within your retail banking division. With six years' experience in cash reconciliation and customer relationship management, I have consistently maintained zero-error audit records across every branch I have served.",
+          "At my current bank, I introduced an escalation process that cut complaint resolution time by 30%, and I regularly train new tellers on core banking systems and compliance procedures.",
+          "I would appreciate the chance to discuss how my track record can support your operations team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "teacher-education",
+      "name": "Teacher / Education",
+      "tags": [
+        "Teacher",
+        "Education",
+        "School",
+        "TRCN"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Blessing Iortyer",
+          "phone": "+234 806 777 2214",
+          "email": "blessing.iortyer@email.com",
+          "location": "Makurdi, Benue State"
+        },
+        "recipient": {
+          "hiringManager": "The Principal",
+          "company": "Greenfield International School",
+          "companyAddress": "12 Gboko Road, Makurdi, Benue State"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Sir/Madam,",
+        "body": [
+          "I am applying for the Mathematics Teacher position advertised in your recent notice. As a TRCN-registered teacher with five years' classroom experience, I raised my current school's WAEC Mathematics credit pass rate from 61% to 84% over three sessions.",
+          "I bring structured, exam-focused lesson planning and genuine enthusiasm for helping students who typically struggle with the subject.",
+          "I would be glad to discuss how I can contribute to your school's academic results."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "nurse-healthcare",
+      "name": "Nurse / Healthcare",
+      "tags": [
+        "Nurse",
+        "Healthcare",
+        "Nursing",
+        "Hospital"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chiamaka Obi",
+          "phone": "+234 809 441 7723",
+          "email": "chiamaka.obi@email.com",
+          "location": "Enugu, Nigeria"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Reddington Hospital",
+          "companyAddress": "12 Idowu Martins Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Sir/Madam,",
+        "body": [
+          "I am applying for the Registered Nurse position advertised on your careers page. I am a Nursing & Midwifery Council of Nigeria-registered nurse with four years of ward and outpatient experience at a teaching hospital.",
+          "I am skilled in patient assessment, medication administration and calm handling of emergency cases, and I hold a current Basic Life Support certification.",
+          "I would be glad to bring this experience and my commitment to patient care to your hospital."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "government-civil-service",
+      "name": "Government / Civil Service",
+      "tags": [
+        "Government",
+        "Civil Service",
+        "Public Sector"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ibrahim Sule",
+          "phone": "+234 805 662 1140",
+          "email": "ibrahim.sule@email.com",
+          "location": "Abuja, FCT"
+        },
+        "recipient": {
+          "hiringManager": "The Permanent Secretary",
+          "company": "Federal Ministry of Works",
+          "companyAddress": "Mabushi District, Abuja, FCT"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Sir/Madam,",
+        "body": [
+          "I am applying for the Administrative Officer I position within your Ministry. I have seven years' experience coordinating correspondence and procurement documentation across departmental units in the federal civil service.",
+          "In my current role I supervise three junior administrative staff and maintain full compliance with due-process procurement guidelines.",
+          "I would be glad to bring this experience to your Ministry and remain available for an interview at your convenience."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "sales-marketing",
+      "name": "Sales & Marketing",
+      "tags": [
+        "Sales",
+        "Marketing",
+        "Business Development"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Damilola Fashola",
+          "phone": "+234 812 990 4456",
+          "email": "damilola.fashola@email.com",
+          "location": "Ikeja, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Unilever Nigeria Plc",
+          "companyAddress": "1 Billingsway Road, Oregun, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Territory Sales Manager role. Over the past five years I have grown FMCG distribution revenue by 22% year-on-year across more than forty retail outlets in South-West Nigeria.",
+          "I have onboarded fifteen new distributor partners and currently lead a team of four field sales representatives, consistently exceeding quarterly targets.",
+          "I would welcome the opportunity to bring this track record to your sales organisation."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "customer-service-admin",
+      "name": "Customer Service & Admin",
+      "tags": [
+        "Customer Service",
+        "Admin",
+        "Front Desk",
+        "Support"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Precious Effiong",
+          "phone": "+234 807 213 6690",
+          "email": "precious.effiong@email.com",
+          "location": "Uyo, Akwa Ibom"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "MTN Nigeria",
+          "companyAddress": "Golden Plaza, Adeola Odeku Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Customer Service Representative role advertised on your careers page. I currently resolve an average of 70 customer inquiries daily across chat and phone while maintaining a satisfaction score above 92%.",
+          "I have also trained new hires on our ticketing system and enjoy turning frustrated customers into satisfied ones.",
+          "I would welcome the opportunity to bring this experience to your support team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "engineering-technical",
+      "name": "Engineering (Technical)",
+      "tags": [
+        "Engineering",
+        "Technical",
+        "Mechanical",
+        "Electrical",
+        "Oil & Gas"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "David Olusoga Emmanuel",
+          "phone": "+234 804 765 7432",
+          "email": "david.emmanuel@email.com",
+          "location": "Port Harcourt, Rivers State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Shell Petroleum Development Company",
+          "companyAddress": "Freeman House, 21/22 Marina, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to express my interest in the Production Engineer role advertised on your careers portal. Over the past decade I have planned and supervised equipment maintenance across several active drilling sites, with a consistent focus on safety and uptime.",
+          "My experience spans field operations analysis, maintenance planning and cross-functional reporting to senior management, and I hold an HSE Level 3 certification.",
+          "I would welcome the opportunity to bring this experience to your operations team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "hospitality-hotel",
+      "name": "Hospitality & Hotel",
+      "tags": [
+        "Hospitality",
+        "Hotel",
+        "Front Desk",
+        "Tourism"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Halima Yusuf",
+          "phone": "+234 810 336 2298",
+          "email": "halima.yusuf@email.com",
+          "location": "Abuja, FCT"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Sheraton Lagos Hotel",
+          "companyAddress": "30 Mobolaji Bank Anthony Way, Ikeja, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Front Desk Supervisor role advertised on your careers page. I currently supervise a team of six across shifts at a leading Abuja hotel, maintaining guest satisfaction scores above 4.6 out of 5.",
+          "I am comfortable resolving escalated complaints within the same shift and coordinating closely with housekeeping to reduce guest wait times.",
+          "I would welcome the chance to bring this experience to your front-office team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "construction-trades",
+      "name": "Construction & Trades",
+      "tags": [
+        "Construction",
+        "Trades",
+        "Site",
+        "Building"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Sunday Okonkwo",
+          "phone": "+234 806 221 7754",
+          "email": "sunday.okonkwo@email.com",
+          "location": "Owerri, Imo State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Julius Berger Nigeria Plc",
+          "companyAddress": "Plot 1679, Karimu Kotun Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Site Supervisor role advertised in your recent notice. I have eight years' experience overseeing residential and light-commercial builds, currently supervising up to 25 workers across two concurrent projects.",
+          "I have maintained zero lost-time safety incidents over the past three years and work closely with project engineers on material scheduling.",
+          "I would welcome the opportunity to bring this record to your site team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "legal-paralegal",
+      "name": "Legal / Paralegal",
+      "tags": [
+        "Legal",
+        "Paralegal",
+        "Law"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Folasade Adekunle",
+          "phone": "+234 802 556 8871",
+          "email": "folasade.adekunle@email.com",
+          "location": "Ikoyi, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Templars",
+          "companyAddress": "The Octagon, 13 A.J. Marinho Drive, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Paralegal position advertised on your careers page. I have four years' experience supporting corporate and litigation teams, drafting pleadings and maintaining case files for over thirty active matters.",
+          "I am comfortable coordinating scheduling between counsel, clients and the courts, and I bring careful attention to detail to every filing.",
+          "I would welcome the opportunity to discuss how I can support your legal team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "logistics-supply-chain",
+      "name": "Logistics & Supply Chain",
+      "tags": [
+        "Logistics",
+        "Supply Chain",
+        "Warehouse"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Tobenna Nwachukwu",
+          "phone": "+234 803 214 7765",
+          "email": "tobenna.nwachukwu@email.com",
+          "location": "Apapa, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "GIG Logistics",
+          "companyAddress": "Plot 1648, Oyin Jolayemi Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Logistics Coordinator role advertised on your careers page. I currently coordinate daily dispatch for a 30-truck fleet and have reduced average delivery turnaround time by 18%.",
+          "I am comfortable resolving shipment discrepancies quickly and working across multiple regional hubs.",
+          "I would welcome the opportunity to bring this experience to your logistics team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "human-resources",
+      "name": "Human Resources",
+      "tags": [
+        "HR",
+        "Human Resources",
+        "Recruitment"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chiamaka Ibe",
+          "phone": "+234 806 442 1187",
+          "email": "chiamaka.ibe@email.com",
+          "location": "Ikoyi, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "PwC Nigeria",
+          "companyAddress": "Landmark Towers, 5B Water Corporation Road, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the HR Officer role advertised on your careers page. I currently manage end-to-end recruitment for over 40 hires annually and coordinate onboarding for new staff.",
+          "I have a strong track record maintaining accurate employee records and supporting performance appraisal cycles.",
+          "I would welcome the opportunity to bring this experience to your HR team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "marketing-communications",
+      "name": "Marketing & Communications",
+      "tags": [
+        "Marketing",
+        "Communications",
+        "PR",
+        "Brand"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Zainab Adamu",
+          "phone": "+234 809 776 5521",
+          "email": "zainab.adamu@email.com",
+          "location": "Wuse, Abuja"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Coca-Cola Hellenic Bottling Company Nigeria",
+          "companyAddress": "35 Iyalla Street, Off Osborne Road, Ikoyi, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Marketing Communications Officer role advertised on your careers page. I currently plan integrated campaigns across social and traditional media, and manage relationships with six media and PR agencies.",
+          "My background in media relations has given me a strong sense of how to protect and grow a brand's public image.",
+          "I would welcome the opportunity to bring this experience to your marketing team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "agriculture-agribusiness",
+      "name": "Agriculture & Agribusiness",
+      "tags": [
+        "Agriculture",
+        "Agribusiness",
+        "Farm Management"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Musa Danladi",
+          "phone": "+234 803 667 2290",
+          "email": "musa.danladi@email.com",
+          "location": "Kaduna, Nigeria"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Olam Agri Nigeria",
+          "companyAddress": "1 Olam Way, Kaduna Industrial Estate, Kaduna"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Farm Operations Manager role advertised on your careers page. I currently manage 800 hectares of maize and soybean production and have improved yield per hectare by 25% through better irrigation scheduling.",
+          "I have trained over 200 smallholder farmers on modern techniques and enjoy building strong field teams.",
+          "I would welcome the opportunity to bring this experience to your agribusiness operation."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "oil-gas",
+      "name": "Oil & Gas (Support Roles)",
+      "tags": [
+        "Oil & Gas",
+        "Energy"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ebiere Amachree",
+          "phone": "+234 803 552 1198",
+          "email": "ebiere.amachree@email.com",
+          "location": "Port Harcourt, Rivers State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Seplat Energy",
+          "companyAddress": "16A Temple Road, Ikoyi, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the HSE Officer role advertised on your careers page. I currently conduct daily safety audits across two flow stations and have maintained a zero lost-time injury record for three consecutive years.",
+          "I bring hands-on experience with permit-to-work systems and incident investigation from field operations.",
+          "I would welcome the opportunity to bring this safety record to your operations team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "telecommunications",
+      "name": "Telecommunications",
+      "tags": [
+        "Telecoms",
+        "Network",
+        "GSM"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Sadiq Aliyu",
+          "phone": "+234 807 118 4432",
+          "email": "sadiq.aliyu@email.com",
+          "location": "Kano, Nigeria"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "MTN Nigeria",
+          "companyAddress": "Golden Plaza, Adeola Odeku Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Network Support Engineer role advertised on your careers page. I currently maintain 99.2% average uptime across 60 base stations and lead first-response troubleshooting for outages.",
+          "I have hands-on experience installing and commissioning base stations across multiple states.",
+          "I would welcome the opportunity to bring this experience to your network operations team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "manufacturing-production",
+      "name": "Manufacturing & Production",
+      "tags": [
+        "Manufacturing",
+        "Production",
+        "Factory"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chukwuemeka Aneke",
+          "phone": "+234 802 445 7723",
+          "email": "chukwuemeka.aneke@email.com",
+          "location": "Aba, Abia State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "PZ Cussons Nigeria",
+          "companyAddress": "45/47 Town Planning Way, Ilupeju, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Production Supervisor role advertised on your careers page. I currently supervise a 20-person shift on a packaging line and reduced downtime by 15% through improved changeover procedures.",
+          "I bring a strong quality-control mindset from years spent monitoring automated filling lines.",
+          "I would welcome the opportunity to bring this experience to your production team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "real-estate",
+      "name": "Real Estate",
+      "tags": [
+        "Real Estate",
+        "Property",
+        "Estate Management"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ifeoma Chukwu",
+          "phone": "+234 803 221 6674",
+          "email": "ifeoma.chukwu@email.com",
+          "location": "Lekki, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Northcourt Real Estate",
+          "companyAddress": "9 Ladipo Kasumu Street, Lekki Phase 1, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Estate Surveyor role advertised on your careers page. I currently conduct valuations for over 50 residential and commercial assets annually and manage a portfolio of 30 rental properties.",
+          "I bring strong facility management experience, including vendor and service-level agreement oversight.",
+          "I would welcome the opportunity to bring this experience to your team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "insurance",
+      "name": "Insurance",
+      "tags": [
+        "Insurance",
+        "Underwriting",
+        "Claims"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Boluwatife Ogunleye",
+          "phone": "+234 806 331 8842",
+          "email": "boluwatife.ogunleye@email.com",
+          "location": "Ikeja, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Leadway Assurance",
+          "companyAddress": "121/123 Funso Williams Avenue, Iponri, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Claims Officer role advertised on your careers page. I currently process an average of 40 motor and property claims monthly and reduced average settlement time from 21 to 14 days.",
+          "I bring strong risk assessment skills from earlier underwriting experience.",
+          "I would welcome the opportunity to bring this experience to your claims team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "accounting-audit",
+      "name": "Accounting & Audit",
+      "tags": [
+        "Accounting",
+        "Audit",
+        "Bookkeeping"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Adaora Nwosu",
+          "phone": "+234 802 116 7734",
+          "email": "adaora.nwosu@email.com",
+          "location": "Ikoyi, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "KPMG Nigeria",
+          "companyAddress": "KPMG Tower, Bishop Aboyade Cole Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Audit Associate role advertised on your careers page. I currently lead fieldwork for statutory audits of eight mid-sized clients annually and prepare working papers to ISA standards.",
+          "I am a Chartered Accountant with strong grounding in IFRS reporting and audit documentation.",
+          "I would welcome the opportunity to bring this experience to your audit team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "procurement",
+      "name": "Procurement & Purchasing",
+      "tags": [
+        "Procurement",
+        "Purchasing",
+        "Vendor Management"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chidi Umeh",
+          "phone": "+234 807 552 3391",
+          "email": "chidi.umeh@email.com",
+          "location": "Port Harcourt, Rivers State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Baker Hughes Nigeria",
+          "companyAddress": "1 Baker Hughes Close, Trans Amadi, Port Harcourt"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Procurement Officer role advertised on your careers page. I currently manage a supplier base of over 60 vendors and negotiated contract terms that saved ₦18 million annually.",
+          "I bring strong experience in purchase order processing and supplier performance evaluation.",
+          "I would welcome the opportunity to bring this experience to your procurement team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "security-services",
+      "name": "Security Services",
+      "tags": [
+        "Security",
+        "Safety",
+        "Guard Services"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Emeka Obasi",
+          "phone": "+234 803 221 4471",
+          "email": "emeka.obasi@email.com",
+          "location": "Victoria Island, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Interguard Security Services",
+          "companyAddress": "15 Karimu Kotun Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Security Supervisor role advertised on your careers page. I currently supervise 18 security officers across three shifts and reduced facility incidents by 40% through improved access control.",
+          "My background includes military logistics and base security experience.",
+          "I would welcome the opportunity to bring this experience to your security team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "driving-transport",
+      "name": "Driving & Transport",
+      "tags": [
+        "Driver",
+        "Transport",
+        "Logistics"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Yakubu Adamu",
+          "phone": "+234 806 221 5567",
+          "email": "yakubu.adamu@email.com",
+          "location": "Kano, Nigeria"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "ABC Transport",
+          "companyAddress": "Km 3, Zaria Road, Kano"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Driver role advertised on your careers page. I have nine years of accident-free driving, including over 200 inter-state trips annually with zero at-fault incidents.",
+          "I hold a valid FRSC professional licence and maintain careful trip and fuel records.",
+          "I would welcome the opportunity to bring this reliability to your transport team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "fashion-tailoring",
+      "name": "Fashion & Tailoring",
+      "tags": [
+        "Fashion",
+        "Tailoring",
+        "Fashion Design"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Aisha Suleiman",
+          "phone": "+234 809 445 1123",
+          "email": "aisha.suleiman@email.com",
+          "location": "Kaduna, Nigeria"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "House of Tara International",
+          "companyAddress": "16A Emina Cres, Off Adeniyi Jones, Ikeja, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Fashion Designer role advertised on your careers page. I currently run my own atelier producing over 15 bespoke bridal and occasion outfits monthly, leading a team of 4 tailors.",
+          "I bring strong pattern-drafting skills and hands-on experience managing client consultations from concept to delivery.",
+          "I would welcome the opportunity to bring this experience to your design team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "beauty-cosmetology",
+      "name": "Beauty & Cosmetology",
+      "tags": [
+        "Beauty",
+        "Makeup",
+        "Cosmetology",
+        "Salon"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Blessing Nnamdi",
+          "phone": "+234 802 665 1187",
+          "email": "blessing.nnamdi@email.com",
+          "location": "Surulere, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Zaron Cosmetics",
+          "companyAddress": "23 Allen Avenue, Ikeja, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Makeup Artist / Trainer role advertised on your careers page. I run a bridal makeup studio serving over 100 clients annually and previously trained more than 50 aspiring artists for your brand.",
+          "I combine strong technical skill with an ability to teach and represent a brand at public events.",
+          "I would welcome the opportunity to bring this experience back to your team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "culinary-chef",
+      "name": "Culinary Arts / Chef",
+      "tags": [
+        "Chef",
+        "Culinary",
+        "Kitchen",
+        "Catering"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ikenna Obi",
+          "phone": "+234 803 221 6690",
+          "email": "ikenna.obi@email.com",
+          "location": "Ikoyi, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Radisson Blu Lagos Victoria Island",
+          "companyAddress": "Plot 1415, Ahmadu Bello Way, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Sous Chef role advertised on your careers page. I currently manage a 12-person kitchen brigade and redesigned our seasonal menu, improving food cost margins by 8%.",
+          "I bring strong HACCP compliance discipline and enjoy training junior kitchen staff.",
+          "I would welcome the opportunity to bring this experience to your kitchen team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "aviation",
+      "name": "Aviation",
+      "tags": [
+        "Aviation",
+        "Airline",
+        "Airport Operations"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Ifeanyi Chukwuma",
+          "phone": "+234 806 774 2298",
+          "email": "ifeanyi.chukwuma@email.com",
+          "location": "Ikeja, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Air Peace",
+          "companyAddress": "Murtala Muhammed Airport, Domestic Wing, Ikeja, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Ground Operations Officer role advertised on your careers page. I currently coordinate turnaround for up to 12 flights daily, working closely with catering, fuelling and baggage teams.",
+          "I hold an IATA Ramp Services certificate and have direct experience handling irregular operations.",
+          "I would welcome the opportunity to bring this experience to your ground operations team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "maritime-shipping",
+      "name": "Maritime & Shipping",
+      "tags": [
+        "Maritime",
+        "Shipping",
+        "Ports"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Preye Ockiya",
+          "phone": "+234 803 662 1187",
+          "email": "preye.ockiya@email.com",
+          "location": "Apapa, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "SIFAX Group",
+          "companyAddress": "7 Point Road, Apapa, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Shipping Documentation Officer role advertised on your careers page. I currently process bills of lading and customs documentation for over 50 containers weekly at Apapa Port.",
+          "I work directly with NPA and NCS on clearance procedures and track demurrage and detention charges closely.",
+          "I would welcome the opportunity to bring this experience to your shipping operations team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "mining-solid-minerals",
+      "name": "Mining & Solid Minerals",
+      "tags": [
+        "Mining",
+        "Solid Minerals",
+        "Geology"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Tunde Bamidele",
+          "phone": "+234 807 221 4471",
+          "email": "tunde.bamidele@email.com",
+          "location": "Jos, Plateau State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Dangote Cement Plc",
+          "companyAddress": "Union Marble House, 1 Alfred Rewane Road, Ikoyi, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Site Geologist role advertised on your careers page. I currently supervise ore body mapping across a 200-hectare quarry and prepare monthly reserve estimation reports.",
+          "I bring hands-on field mapping experience and comfort working with GIS software.",
+          "I would welcome the opportunity to bring this experience to your mining operations team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "tags": [
+        "Pharmacy",
+        "Pharmacist",
+        "PCN"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chiamaka Uzo",
+          "phone": "+234 802 774 1123",
+          "email": "chiamaka.uzo@email.com",
+          "location": "Enugu, Nigeria"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "HealthPlus Pharmacy",
+          "companyAddress": "6 Providence Street, Lekki Phase 1, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Community Pharmacist role advertised on your careers page. I currently dispense an average of 120 prescriptions daily with zero dispensing errors and counsel patients on medication use.",
+          "I am a PCN-licensed pharmacist with hospital rotation experience across inpatient and outpatient units.",
+          "I would welcome the opportunity to bring this experience to your pharmacy team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "tags": [
+        "Architecture",
+        "Architect",
+        "Design"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Segun Alabi",
+          "phone": "+234 803 445 6690",
+          "email": "segun.alabi@email.com",
+          "location": "Ikeja, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "James Cubitt Architects",
+          "companyAddress": "9 Kofo Abayomi Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Architect role advertised on your careers page. I currently lead design development for six residential and mixed-use projects, coordinating closely with structural and MEP engineers.",
+          "I am ARCON-registered and comfortable across the full project lifecycle, from concept to site supervision.",
+          "I would welcome the opportunity to bring this experience to your design team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "it-support",
+      "name": "IT Support",
+      "tags": [
+        "IT Support",
+        "Helpdesk",
+        "Technical Support"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Bright Etim",
+          "phone": "+234 806 221 7789",
+          "email": "bright.etim@email.com",
+          "location": "Uyo, Akwa Ibom"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Access Bank Plc",
+          "companyAddress": "14/15 Prince Alaba Oniru Road, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the IT Support Officer role advertised on your careers page. I currently resolve an average of 30 helpdesk tickets daily across hardware, software and network issues.",
+          "I hold a CompTIA A+ certification and have experience configuring and maintaining a large staff workstation fleet.",
+          "I would welcome the opportunity to bring this experience to your IT support team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "data-analysis",
+      "name": "Data Analysis",
+      "tags": [
+        "Data Analyst",
+        "Analytics",
+        "BI"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Kelechi Anyanwu",
+          "phone": "+234 803 221 8890",
+          "email": "kelechi.anyanwu@email.com",
+          "location": "Yaba, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Kuda Bank",
+          "companyAddress": "2 Adeyemo Alakija Street, Victoria Island, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Data Analyst role advertised on your careers page. I currently build and maintain over 10 dashboards tracking product and growth metrics, and partner with product teams on A/B tests.",
+          "I have automated recurring reports that saved my previous team six hours weekly.",
+          "I would welcome the opportunity to bring this experience to your analytics team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management",
+      "tags": [
+        "Project Manager",
+        "PMP",
+        "Coordination"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Uduak Bassey",
+          "phone": "+234 807 774 3320",
+          "email": "uduak.bassey@email.com",
+          "location": "Abuja, FCT"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Palladium International",
+          "companyAddress": "Plot 251, Herbert Macaulay Way, Central Business District, Abuja"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Project Manager role advertised on your careers page. I currently manage a portfolio of four concurrent donor-funded projects worth over $2 million combined, leading teams of up to 15 people.",
+          "I am PMP-certified and comfortable managing risk registers, budgets and steering committee reporting.",
+          "I would welcome the opportunity to bring this experience to your programme team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "social-work",
+      "name": "Social Work",
+      "tags": [
+        "Social Work",
+        "Community Development"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Grace Ityavyar",
+          "phone": "+234 806 445 2298",
+          "email": "grace.ityavyar@email.com",
+          "location": "Jos, Plateau State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "UNICEF Nigeria",
+          "companyAddress": "UN House, Plot 617/618, Diplomatic Zone, Central Business District, Abuja"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Social Welfare Officer role advertised on your careers page. I currently manage a caseload of over 40 vulnerable children and families and coordinate referral pathways with six community organisations.",
+          "I bring hands-on case management and child protection experience from both government and NGO settings.",
+          "I would welcome the opportunity to bring this experience to your programme team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "ngo-development",
+      "name": "NGO / Development Sector",
+      "tags": [
+        "NGO",
+        "Development",
+        "Programme Officer"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Aisha Mohammed",
+          "phone": "+234 803 662 1187",
+          "email": "aisha.mohammed@email.com",
+          "location": "Maiduguri, Borno State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Mercy Corps Nigeria",
+          "companyAddress": "No. 1 Bama Road, GRA, Maiduguri, Borno State"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Programme Officer role advertised on your careers page. I currently manage a livelihoods programme reaching 3,000 households and coordinate with five field teams and local government partners.",
+          "I bring strong monitoring and evaluation skills from earlier emergency response work.",
+          "I would welcome the opportunity to bring this experience to your programme team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "research-academia",
+      "name": "Research & Academia",
+      "tags": [
+        "Research",
+        "Academia",
+        "Lecturer"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Dr. Chinwe Eze",
+          "phone": "+234 803 221 4471",
+          "email": "dr..eze@email.com",
+          "location": "Nsukka, Enugu State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "International Institute of Tropical Agriculture (IITA)",
+          "companyAddress": "Oyo Road, PMB 5320, Ibadan, Oyo State"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Research Fellow role advertised on your careers page. I currently lead a research team investigating cassava yield improvement and have published nine peer-reviewed papers in the last five years.",
+          "I bring strong grant-writing experience and enjoy supervising postgraduate researchers.",
+          "I would welcome the opportunity to bring this research programme to your institute."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "warehouse-inventory",
+      "name": "Warehouse & Inventory",
+      "tags": [
+        "Warehouse",
+        "Inventory",
+        "Stock Control"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chibueze Okoro",
+          "phone": "+234 802 556 4432",
+          "email": "chibueze.okoro@email.com",
+          "location": "Ogba, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Nestlé Nigeria Plc",
+          "companyAddress": "Km 22, Lagos-Abeokuta Expressway, Agbara, Ogun State"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Warehouse Supervisor role advertised on your careers page. I currently supervise a 12-person team and improved inventory accuracy from 91% to 99% through disciplined cycle counting.",
+          "I bring hands-on experience with warehouse management systems and monthly stock reconciliation.",
+          "I would welcome the opportunity to bring this experience to your distribution team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "electrical-technician",
+      "name": "Electrical Technician",
+      "tags": [
+        "Electrician",
+        "Electrical",
+        "Technician"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chijioke Mbah",
+          "phone": "+234 803 774 2298",
+          "email": "chijioke.mbah@email.com",
+          "location": "Onitsha, Anambra State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Bemil Nigeria Ltd",
+          "companyAddress": "14 New Market Road, Onitsha, Anambra State"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Electrical Technician role advertised on your careers page. I currently lead installation of electrical systems for over 15 commercial projects and supervise three junior technicians.",
+          "I bring seven years of hands-on fault diagnosis and installation experience across residential and commercial sites.",
+          "I would welcome the opportunity to bring this experience to your technical team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "plumbing",
+      "name": "Plumbing",
+      "tags": [
+        "Plumber",
+        "Plumbing",
+        "Pipefitting"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Godwin Etim",
+          "phone": "+234 806 221 5567",
+          "email": "godwin.etim@email.com",
+          "location": "Warri, Delta State"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Niger Delta Construction Ltd",
+          "companyAddress": "24 Airport Road, Warri, Delta State"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Plumbing Technician role advertised on your careers page. I currently install and maintain plumbing systems for over 10 building projects annually.",
+          "I bring eight years of hands-on experience diagnosing leaks and installing borehole and drainage systems.",
+          "I would welcome the opportunity to bring this experience to your construction team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "automotive-mechanic",
+      "name": "Automotive Mechanic",
+      "tags": [
+        "Mechanic",
+        "Automotive",
+        "Vehicle Repair"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Suleiman Bello",
+          "phone": "+234 802 774 3320",
+          "email": "suleiman.bello@email.com",
+          "location": "Kaduna, Nigeria"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Dangote Group",
+          "companyAddress": "Union Marble House, 1 Alfred Rewane Road, Ikoyi, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Automotive Technician role advertised on your careers page. I currently maintain a 45-truck fleet and have reduced breakdown incidents by 30% through improved preventive maintenance.",
+          "I bring strong diagnostic skills across petrol and diesel engines and enjoy training junior technicians.",
+          "I would welcome the opportunity to bring this experience to your fleet maintenance team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "photography-creative",
+      "name": "Photography & Creative Arts",
+      "tags": [
+        "Photography",
+        "Creative",
+        "Videography"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Tobi Alademomi",
+          "phone": "+234 803 221 8890",
+          "email": "tobi.alademomi@email.com",
+          "location": "Yaba, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Zoom Studios Lagos",
+          "companyAddress": "12 Allen Avenue, Ikeja, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am writing to apply for the Photographer / Videographer role advertised on your careers page. I currently shoot and edit content for over 40 weddings and corporate events annually, managing a small creative team.",
+          "I bring strong client management skills and consistently deliver within tight turnaround times.",
+          "I would welcome the opportunity to bring this experience to your studio."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    },
+    {
+      "id": "event-planning",
+      "name": "Event Planning",
+      "tags": [
+        "Event Planner",
+        "Events",
+        "Wedding Planning"
+      ],
+      "sample": {
+        "personal": {
+          "fullName": "Chidinma Okafor",
+          "phone": "+234 806 774 2298",
+          "email": "chidinma.okafor@email.com",
+          "location": "Lekki, Lagos"
+        },
+        "recipient": {
+          "hiringManager": "The Hiring Manager",
+          "company": "Elizabeth Events",
+          "companyAddress": "5 Admiralty Way, Lekki Phase 1, Lagos"
+        },
+        "date": "31st July, 2026",
+        "salutation": "Dear Hiring Manager,",
+        "body": [
+          "I am applying for the Event Planner role advertised on your careers page. I currently plan and execute over 25 weddings and corporate events annually, managing vendor relationships across catering, décor and logistics.",
+          "I bring strong budget planning and on-site coordination skills from events of up to 500 guests.",
+          "I would welcome the opportunity to bring this experience to your events team."
+        ],
+        "closing": "Yours faithfully,"
+      }
+    }
+  ]
+}
